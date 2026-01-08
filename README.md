@@ -1,6 +1,6 @@
 <h1 align='center'>Modelling the Abundance of UK Butterflies</h1>
 
-<p align='center'>![logo](images/project_background/logo.png)</p>
+<p align='center'><image src='images/project_background/logo.png' alt=logo width=202></p>
 
 ## Project Context
 As part of a new government-led green initiative to prevent biodiversity loss, local councils are to receive a ‘nature grant’ that will be allocated for habitat restoration and species protection. This comes after a report in the State of Nature revealed the number endangered species in Great Britain had risen to 16% [1]. Many experts believe this is likely the result of environmental pressures such as, climate change, air pollution, agricultural pollution and invasive species [1].
