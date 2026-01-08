@@ -12,10 +12,7 @@ The UKDWC is a non-profit environmental research organisation, that monitors bio
 ## Data Sourcing & Project Data
 Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology). Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were cleaned and joined to form the main project dataset ‘UKBMS_cleaned_v1’. 
 
-
-
-
-
+<p align='center'><image src='images/project_background/data_structure.png' width=500></p>
 
 The code used to clean the original datasets is available here:
 ukbms_site_location_cleaning
