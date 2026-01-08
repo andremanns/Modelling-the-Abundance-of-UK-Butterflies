@@ -10,7 +10,14 @@ It is well known that butterflies are excellent indicators of terrestrial biodiv
 ### About the UKDWC
 The UKDWC is a non-profit environmental research organisation, that monitors biodiversity and ecosystems in the UK, reporting its findings to various charities and central government. Since its founding in 1963, the company has gained a reputation for its excellent ecological modelling capabilities and data-centric environmental reports. 
 ## Data Sourcing & Project Data
-Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology). Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were filtered, cleaned and joined to form the main project dataset ‘UKBMS_cleaned_v1’. The code used to clean the original datasets is available here:
+Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology). Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were cleaned and joined to form the main project dataset ‘UKBMS_cleaned_v1’. 
+
+
+
+
+
+
+The code used to clean the original datasets is available here:
 ukbms_site_location_cleaning
 ukbms_site_indices_cleaning
 join_indices_location
