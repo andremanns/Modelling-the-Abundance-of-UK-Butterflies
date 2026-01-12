@@ -52,6 +52,8 @@ Although the green-veined white has shown a long-term decline of 34%, it did inc
 <p align='left'><image src='images/insights/relative_abundance_l_skipper.png' width=600></p>
 4.	Long term trends for the Large Skipper mimic those seen in its close relatives, the Essex and Small Skipper, with two distinct periods of decline from 1993 to the mid-late 2000s, and 2015 onwards - although both long and short-term decline have been less severe at 46% and 29% respectively. All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper.   
 
+## What does this 
+
 ## Recommendations
 ### Blanket ban on neonicotinoids pivotal for the Skipper revival…
 Despite reduced use in the UK since 2018, a half life of three years means neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields. 
