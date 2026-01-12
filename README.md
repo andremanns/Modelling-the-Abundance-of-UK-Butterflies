@@ -55,7 +55,7 @@ Although the green-veined white has shown a long-term decline of 34%, it did inc
 
 ## The Outlook if Nothing Changes
 
-<p align='left'><image src='images/insights/relative_abundance_l_skipper.png' width=238></p>
+<p align='left'><image src='images/insights/species_timeline.png' width=238></p>
 
 ## Recommendations
 ### Blanket ban on neonicotinoids pivotal for the Skipper revival…
