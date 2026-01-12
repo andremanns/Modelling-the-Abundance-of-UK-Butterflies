@@ -42,7 +42,7 @@ The downward trend can be split into two periods: between 1997 and 2004 abundanc
 
 ### Figure 2b: Small Tortoiseshell
 <p align='left'><image src='images/insights/relative_abundance_s_tortoiseshell.png' width=600></p>
-2.	Small Tortoiseshell numbers continue to fall, although the rate of decline has slowed (more than 6%/yr between 1993 and 2008 vs less than 4%/yr between 2008 and 2023). The initial decline corresponds with the settling of invasive species Sturmia Bella from continental Europe in the 1990s [5]. Sturmia Bella threaten Small Tortoiseshells, because both species occupy the common nettle at the beginning of their lifecycle. Sturmia Bella eggs, consumed by Small Tortoiseshell caterpillars, subsequently hatch killing their host. 
+Small Tortoiseshell numbers continue to fall, although the rate of decline has slowed (more than 6%/yr between 1993 and 2008 vs less than 4%/yr between 2008 and 2023). The initial decline corresponds with the settling of invasive species Sturmia Bella from continental Europe in the 1990s [5]. Sturmia Bella threaten Small Tortoiseshells, because both species occupy the common nettle at the beginning of their lifecycle. Sturmia Bella eggs, consumed by Small Tortoiseshell caterpillars, subsequently hatch killing their host. 
 Reduced rates of decline suggest possible adaptation. Instances of early hibernation in the species has been noted [6], and a change in brooding pattern could reduce interactions with Sturmia Bella larvae. However, it is more likely, this has been triggered by warmer Springs, an effect of climate change. 
 
 ### Figure 2c: Green-veined White
@@ -51,9 +51,10 @@ Although the green-veined white has shown a long-term decline of 34%, it did inc
 
 ### Figure 2d: Large Skipper
 <p align='left'><image src='images/insights/relative_abundance_l_skipper.png' width=600></p>
-4.	Long term trends for the Large Skipper mimic those seen in its close relatives, the Essex and Small Skipper, with two distinct periods of decline from 1993 to the mid-late 2000s, and 2015 onwards - although both long and short-term decline have been less severe at 46% and 29% respectively. All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper.   
+Long term trends for the Large Skipper mimic those seen in its close relatives, the Essex and Small Skipper, with two distinct periods of decline from 1993 to the mid-late 2000s, and 2015 onwards - although both long and short-term decline have been less severe at 46% and 29% respectively. All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper.   
 
-## The Outlook if Nothing Changes
+## The Clock is Ticking on UK Butterflies...
+### Some species are already at risk of extinction, others are not far behind
 
 <p align='left'><image src='images/insights/species_timeline.png' width=800></p>
 
