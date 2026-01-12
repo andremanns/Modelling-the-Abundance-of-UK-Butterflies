@@ -58,6 +58,10 @@ Long term trends for the Large Skipper mimic those seen in its close relatives, 
 
 <p align='left'><image src='images/insights/species_timeline.png' width=800></p>
 
+- The Small and Essex Skipper are now classified as 'high risk', meaning population levels have decreased by at least 90% of 1993 baseline levels.
+- Long term decline of the Small Tortoiseshell dropped to 79% in 2023, meaning it is considered 'moderate risk'. If long term trends continue, it will become high risk by 2037.
+- The Large Skipper is forecast to become 'moderate risk' within the next 30 years. 
+
 ## Recommendations
 ### Blanket ban on neonicotinoids pivotal for the Skipper revival…
 Despite reduced use in the UK since 2018, a half life of three years means neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields. 
