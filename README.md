@@ -54,7 +54,7 @@ Although the green-veined white has shown a long-term decline of 34%, it did inc
 Long term trends for the Large Skipper mimic those seen in its close relatives, the Essex and Small Skipper, with two distinct periods of decline from 1993 to the mid-late 2000s, and 2015 onwards - although both long and short-term decline have been less severe at 46% and 29% respectively. All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper.   
 
 ## The Clock is Ticking on UK Butterflies...
-### Some species are already at risk of extinction, others are not far behind
+### Two species face extinction threat, and more could follow
 
 <p align='left'><image src='images/insights/species_timeline.png' width=800></p>
 
