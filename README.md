@@ -33,3 +33,8 @@ Figure 1a summarises the performance of all butterfly species over the last 10-3
 
 <h3 align='left'>Figure 1c: Short Term Changes</h3>
 <p align='left'><image src='images/executive_summary/short_term.png' width=673></p>
+
+## Species Specific Insight
+### Figure 2a: Essex & Small Skipper
+<p align='left'><image src='images/insights/relative_abundance_es_skipper.png' width=667></p>
+The downward trend can be split into two periods: between 1997 and 2004 abundance fell by 8%/yr. Then after a brief period of stability, the decline started again, with abundance falling by 18% year on year since 2015. The first period of decline can be linked to the introduction of neonicotinoids, first used in UK agriculture in 1993. The Essex and Small Skipper are particularly susceptible to these chemicals, since their primary food sources, Yorkshire Fog and Cocks Foot, grow on field boundaries. It is difficult to explain the brief period of stability between 2006 and 2015, but continued use of neonicotinoids on winter crops, and sugar beet in 2022, despite a partial ‘ban’, have likely contributed to the continuing decline.  
