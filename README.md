@@ -53,4 +53,20 @@ Although the green-veined white has shown a long-term decline of 34%, it did inc
 4.	Long term trends for the Large Skipper mimic those seen in its close relatives, the Essex and Small Skipper, with two distinct periods of decline from 1993 to the mid-late 2000s, and 2015 onwards - although both long and short-term decline have been less severe at 46% and 29% respectively. All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper.   
 
 ## Recommendations
+### Blanket ban on neonicotinoids pivotal for the Skipper revival…
+Despite reduced use in the UK since 2018, a half life of three years means neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields. 
+- In 2023, the Essex and Small Skipper were officially declared ‘high risk’.
+- Following the introduction of neonicotinoids in 1993, Essex and Small Skipper population levels have declined by 90%.
+- Large Skipper abundance is down 48% on 1993 levels. 
+
+### Small Tortoiseshells to benefit from invasive species monitoring…
+Invasive species Sturmia Bella have been associated with the decline of Small Tortoiseshells, although it is likely the decrease is multifactorial. Detailed abundance and occupancy surveys will be important for quantifying their impact. 
+- Small Tortoiseshell butterflies have declined at a rate of more than 5%/yr since 1993.
+- In 2023, the abundance of Small Tortoiseshell butterflies dropped to levels not seen since 2008.
+
+### Water retention in lush grassland habitats is key for the Green-veined White…
+Planting trees and hedges in field boundaries is estimated to increase water infiltration up to 60 times and can be an effective flood prevention strategy for farmers in the wetter months. 
+- Since 2004 three severe drought periods have placed increased strain on lush grasslands; areas commonly occupied by the green-veined white.
+- Relative abundance of green-veined white populations has declined since the mid-late 2000s, with a 34% decrease witnessed in the last decade. 
+
 
