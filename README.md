@@ -27,4 +27,6 @@ Figure 1a summarises the performance of all butterfly species over the last 10-3
 
 <p align='center'><image src='images/executive_summary/long_term_vs_short_term.png' width=800></p>
 
+<p align='center'><image src='images/executive_summary/long_term.png' width=798></p>
 
+<p align='center'><image src='images/executive_summary/short_term.png' width=797></p>
