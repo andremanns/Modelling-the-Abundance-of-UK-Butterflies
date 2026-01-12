@@ -35,7 +35,7 @@ Figure 1a summarises the performance of all butterfly species over the last 10-3
 <h3 align='left'>Figure 1c: Short Term Changes</h3>
 <p align='left'><image src='images/executive_summary/short_term.png' width=673></p>
 
-### Species Specific Insights
+## Species Specific Insights
 ### Figure 2a: Essex & Small Skipper
 <p align='left'><image src='images/insights/relative_abundance_es_skipper.png' width=600></p>
 The downward trend can be split into two periods: between 1997 and 2004 abundance fell by 8%/yr. Then after a brief period of stability, the decline started again, with abundance falling by 18% year on year since 2015. The first period of decline can be linked to the introduction of neonicotinoids, first used in UK agriculture in 1993. The Essex and Small Skipper are particularly susceptible to these chemicals, since their primary food sources, Yorkshire Fog and Cocks Foot, grow on field boundaries. It is difficult to explain the brief period of stability between 2006 and 2015, but continued use of neonicotinoids on winter crops, and sugar beet in 2022, despite a partial ‘ban’, have likely contributed to the continuing decline.  
@@ -53,7 +53,9 @@ Although the green-veined white has shown a long-term decline of 34%, it did inc
 <p align='left'><image src='images/insights/relative_abundance_l_skipper.png' width=600></p>
 4.	Long term trends for the Large Skipper mimic those seen in its close relatives, the Essex and Small Skipper, with two distinct periods of decline from 1993 to the mid-late 2000s, and 2015 onwards - although both long and short-term decline have been less severe at 46% and 29% respectively. All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper.   
 
-## What does this 
+## The Outlook if Nothing Changes
+
+<p align='left'><image src='images/insights/relative_abundance_l_skipper.png' width=238></p>
 
 ## Recommendations
 ### Blanket ban on neonicotinoids pivotal for the Skipper revival…
