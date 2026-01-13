@@ -28,7 +28,7 @@ Figure 1a summarises the performance of all butterfly species over the last 10-3
 <h3 align='left'>Figure 1a: Relative Abundance of UK Butterflies</h3>
 <p align='left'><image src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
 
-## Insights
+## General Insights
 <h3 align='left'>Figure 1b: Long Term Changes</h3>
 <p align='left'><image src='images/executive_summary/long_term.png' width=667></p>
 
