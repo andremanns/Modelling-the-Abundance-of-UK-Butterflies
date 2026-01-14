@@ -31,6 +31,7 @@ Figure 1a summarises the performance of all butterfly species over the last 10-3
 ## General Insights
 <h3 align='left'>Figure 1b: Long Term Changes</h3>
 <p align='left'><image src='images/executive_summary/long_term.png' width=667></p>
+Note: grassland species / road verges / damp grassland and meadow
 
 <h3 align='left'>Figure 1c: Short Term Changes</h3>
 <p align='left'><image src='images/executive_summary/short_term.png' width=673></p>
