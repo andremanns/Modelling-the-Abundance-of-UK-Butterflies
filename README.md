@@ -11,7 +11,7 @@ The UKDWC is a non-profit environmental research organisation, that monitors bio
 <p align='left'><image src='images/project_background/logo.png' width=300></p>
 
 ## 2. Data Sourcing & Project Data
-Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology) [3]. Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were cleaned and joined (see table 2a) in Python to form the master dataset used throughout the project. 
+Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology). Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’ [3]. Before the analysis, both datasets were cleaned and joined (see table 2a) in Python to form the master dataset used throughout the project. 
 
 <p align='left'><image src='images/project_background/data_structure.png' width=500></p>
 
@@ -20,7 +20,7 @@ Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitorin
 ## 3. Executive Summary
 In this project, UKBMS survey data is used to model the relative abundance (RA) of UK butterflies over the last 30 years. For an overview of the methodology, click here. 
 <br><br>
-Of the 17 species analysed, nearly a third are found to be in long term decline, with 24% showing both short- and long-term decline. The Essex Skipper and Small Skipper have been identified as ‘high risk’, with population levels falling by 90% since 1993. Another struggler, the Small Tortoiseshell has declined at an average rate of 5%/yr since 1993 and is forecast to become ‘high risk’ in 2037 if long term trends continue. Possible causes are found to be agricultural pollution, climate change and the influence of invasive species. The remainder of this report will highlight key metrics in the worst performing species, the implications and possible solutions. In the following section, an overview of long and short term change in relative abundance (RA) is provided. Species-specific insights are found in section 5. Section 6 suggests likely outcomes if current trends continue. Finally, in section 7, the recommended actions for regional policy makers are detailed. Figure 3a below, summarises the the results of the report, showing both long and short term changes in RA for butterflies that were analysed.
+Of the 17 species analysed, nearly a third are found to be in long term decline, with 24% showing both short- and long-term decline. The Essex Skipper and Small Skipper have been identified as ‘high risk’, with population levels falling by 90% since 1993. Another struggler, the Small Tortoiseshell has declined at an average rate of 5%/yr since 1993 and is forecast to become ‘high risk’ in 2037 if long term trends continue. Possible causes are found to be agricultural pollution, climate change and the influence of invasive species [2]. The remainder of this report will highlight key metrics in the worst performing species, the implications and possible solutions. In the following section, an overview of long and short term change in relative abundance (RA) is provided. Species-specific insights are found in section 5. Section 6 suggests likely outcomes if current trends continue. Finally, in section 7, the recommended actions for regional policy makers are detailed. Figure 3a below, summarises the the results of the report, showing both long and short term changes in RA for butterflies that were analysed.
 
 <h3 align='left'>Figure 3a: Relative Abundance of UK Butterflies</h3>
 <p align='left'><img src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
@@ -31,7 +31,7 @@ Of the 17 species analysed, nearly a third are found to be in long term decline,
 <h3 align='left'>Figure 4a: Long Term Changes</h3>
 <p align='left'><image src='images/general_insights/long_term.png' width=1200></p>
 
-###### *Figure 4a: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some long term RA changes are not significant, click here.*
+###### *Figure 4a: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat [4],[5],[6]. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some long term RA changes are not significant, click here.*
 <br> 
 
 Figure 4a shows the percentage change in species relative abundance since 1993. Excluding non-significant results, RA in 41% of the species analysed decreased, with the Essex and small Skipper declining by the greatest magnitude (90%), followed by the Small Tortoiseshell (79%). The proportion of species which increased and decreased was reasonably balanced when grouped by habitat: 
@@ -42,7 +42,7 @@ Figure 4a shows the percentage change in species relative abundance since 1993. 
 <h3 align='left'>Figure 4b: Short Term Changes</h3>
 <p align='left'><image src='images/general_insights/short_term.png' width=1200></p>
 
-###### *Figure 4b: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some short term RA changes are not significant, click here.*
+###### *Figure 4b: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat [4],[5],[6]. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some short term RA changes are not significant, click here.*
 <br>
 
 Figure 4b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains (see figure 4a), declined by 43% and 25% respectively. When grouped by habitat, the proportion of species with increasing or decreasing RA was mixed:
@@ -130,4 +130,12 @@ Mowing roadside vegetation less frequently and collecting cuttings reduces soil 
    https://stateofnature.org.uk/wp-content/uploads/2023/09/TP25999-State-of-Nature-main-report_2023_FULL-DOC-v12.pdf
 2. State of Nature 2023, pages 26-27.
    https://stateofnature.org.uk/wp-content/uploads/2023/09/TP25999-State-of-Nature-main-report_2023_FULL-DOC-v12.pdf
-3. 
+3. United Kingdom Butterfly Monitoring Scheme (UKBMS) 1976-2023 data
+   https://catalogue.ceh.ac.uk/documents/6760ee12-b1af-4c1f-b9ee-251a0c544aed
+4. Farmland and hedgerows, Hedgerows and field margins.
+   https://butterfly-conservation.org/our-work/habitat-management/farmland-and-hedgerows
+5. Urban and post industrial, Road Verges.
+   https://butterfly-conservation.org/our-work/habitat-management/urban-and-post-industrial
+6. Grassland and Heathland, Damp Grassland and Meadows.
+   https://butterfly-conservation.org/our-work/habitat-management/grassland-and-heathland
+7. 
