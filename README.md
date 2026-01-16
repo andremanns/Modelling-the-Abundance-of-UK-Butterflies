@@ -91,7 +91,7 @@ All three Skippers share common food sources, but unlike its relatives, Large Sk
 
 <p align='left'><image src='images/species_insights/species_timeline.png' width=800></p>
 
-###### *Figure 6a: A species is 'high risk' when the 'smoothed trend' for RA falls to 10% of its baseline level. Similarly, 'moderate risk' is set at 25%. Here, the average rate of decline since 1993 is used to estimate when a species will meet these thresholds.*
+###### *Figure 6a: A species is 'high risk' when the 'smoothed trend' for RA falls below 10% of its baseline level. Similarly, 'moderate risk' is set at 25%. Here, the average rate of decline since 1993 is used to estimate when a species will meet these thresholds.*
 <br>
 - The Small and Essex Skipper are now classified as 'high risk', meaning population levels have decreased by at least 90% since the 1993 baseline survey.
 - Long term decline of the Small Tortoiseshell increased to 79% in 2023, meaning it is considered 'moderate risk'. If long term trends continue, it will become high risk by 2037.
