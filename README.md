@@ -26,7 +26,7 @@ Of the 17 species analysed, nearly a third are found to be in long term decline,
 Figure 1a summarises the performance of all butterfly species over the last 10-30 years. Figures 1b and 1c illustrate short and long term changes in abundance respectively. 
 
 <h3 align='left'>Figure 1a: Relative Abundance of UK Butterflies</h3>
-<p align='left'><image src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
+<p align='left'><img src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
 
 ## 2. General Insights
 <h3 align='left'>Figure 1b: Long Term Changes</h3>
