@@ -2,7 +2,7 @@
 
 ## 1. Project Background
 ### Context
-As part of a new government-led green initiative to prevent biodiversity loss, regional councils are to receive a ‘nature grant’ that will be allocated for habitat restoration and species protection. This comes after a report in the State of Nature revealed the number of endangered species in Great Britain had risen to 16% [1]. Many experts believe this is the result of environmental pressures such as, climate change, air pollution, agricultural pollution and invasive species [1].
+As part of a new government-led green initiative to prevent biodiversity loss, regional councils are to receive a ‘nature grant’ that will be allocated for habitat restoration and species protection. This comes after a report in the State of Nature revealed the number of endangered species in Great Britain had risen to 16% [1]. Many experts believe this is the result of environmental pressures such as, climate change, air pollution, agricultural pollution and invasive species [2].
 ### The Goal
 It is well known that butterflies are excellent indicators of terrestrial biodiversity, due to the diverse range of habitats they occupy, and their sensitivity to environmental changes. To help regional councils decide how they should allocate their grant, the UK Data for Wildlife Conservation (UKDWC) has been commissioned to produce a report detailing the abundance trends of butterflies on a national scale. The report will highlight species of butterfly in decline and produce a list of ‘recommended actions’ that regional decision makers can use to focus their budgets accordingly. 
 ### About the UKDWC
@@ -11,7 +11,7 @@ The UKDWC is a non-profit environmental research organisation, that monitors bio
 <p align='left'><image src='images/project_background/logo.png' width=300></p>
 
 ## 2. Data Sourcing & Project Data
-Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology). Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were cleaned and joined (see table 2a) in Python to form the master dataset used throughout the project. 
+Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology) [3]. Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were cleaned and joined (see table 2a) in Python to form the master dataset used throughout the project. 
 
 <p align='left'><image src='images/project_background/data_structure.png' width=500></p>
 
@@ -126,13 +126,8 @@ Mowing roadside vegetation less frequently and collecting cuttings reduces soil 
 - Dorset council saved £100,000 in 2015 and 2016 by implementing a new road verge management plan. A key component involved reduced road verge cutting, with some locations receiving only 1 cut through the year.  
 
 ## 8. References
-[1]
-[2]
-[3]
-[4]
-[5]
-[6]
-[7]
-[8]
-[9]
-[10]
+1. State of Nature 2023, page 4.
+   https://stateofnature.org.uk/wp-content/uploads/2023/09/TP25999-State-of-Nature-main-report_2023_FULL-DOC-v12.pdf
+2. State of Nature 2023, pages 26-27.
+   https://stateofnature.org.uk/wp-content/uploads/2023/09/TP25999-State-of-Nature-main-report_2023_FULL-DOC-v12.pdf
+3. 
