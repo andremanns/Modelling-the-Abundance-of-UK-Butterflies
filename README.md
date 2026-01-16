@@ -77,7 +77,7 @@ The initial decline corresponds with the settling of invasive species Sturmia Be
 <br>
 RA between 1993 and 2023 is shown for the Green-veined white in figure 5c. Over the study period, RA declined by 34% from its 1993 baseline, although it did increase steadily between 1993 and 2009 (+0.7%/yr). After this period, RA fell by 37% in total, and the rate of decline increased every year to more than 7%/yr in 2023.
 <br><br>  
-Decline of this species coincides with a period of increased National drought frequency (2004-2006, 2010-2012, 2016-2019 & 2022-2023). This is likely to have impacted access to its main food sources (garlic mustard and watercress) which thrive in lush grassland areas.  
+Decline of this species coincides with a period of increased National drought frequency (2004-2006, 2010-2012, 2016-2019 & 2022-2023) [13]. This is likely to have impacted access to its main food sources (garlic mustard and watercress) which thrive in lush grassland areas [14].  
 
 ### Figure 5d: Large Skipper
 <p align='left'><image src='images/species_insights/relative_abundance_l_skipper.png' width=600></p>
@@ -86,7 +86,7 @@ Decline of this species coincides with a period of increased National drought fr
 <br>
 Figure 5d details RA trends for the Large Skipper between 1993 and 2023. Long term trends resembled those observed in the other ‘grass skippers’ (the Essex and Small Skipper) with two distinct periods of decline: 1993 to 2006 (-34%), and 2016 onwards (-31%). A small ‘rebound’ was observed in between these periods (+13%) but over the study length RA saw a net decrease of 48%. An accelerated rate of decline was observed after 2019, with record rates recorded in successive years (-4% in 2020, -7% in 2021, -8% in 2022 and -10% 2023). 
 <br><br> 
-All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper. Recent accelerated declines mirror those seen in other ‘grass skippers’ (see Figure 5a for the Essex and Small Skipper trends).  
+All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass [15], which is typically not found in agricultural settings [16]. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper. Recent accelerated declines mirror those seen in other ‘grass skippers’ (see Figure 5a for the Essex and Small Skipper trends).  
 
 ## 6. Looking to the Future
 ### Two species are already threatened, and more could follow...
@@ -150,3 +150,12 @@ Mowing roadside vegetation less frequently and collecting cuttings reduces soil 
     https://butterfly-conservation.org/news-and-blog/where-have-all-the-small-tortoiseshells-gone
 12. Small Tortoiseshell, What happens in winter?
     https://wlgf.org/wildlife/arthropods/insects/butterflies-and-moths/butterflies/vanessids/small-tortoiseshell/
+13. Drought: how it is managed in England, 1.4 Notable droughts in the last 50 years.
+    https://www.gov.uk/government/publications/drought-management-for-england/drought-how-it-is-managed-in-england
+14. Green-veined White, Caterpillar Foodplants
+    https://butterfly-conservation.org/butterflies/green-veined-white
+15. Large skipper, About
+    https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/large-skipper
+16. Purple Moor-grass, Habitats
+    https://freshwaterhabitats.org.uk/species/purple-moor-grass-molinia-caerulea/#:~:text=Habitat,in%20Oxfordshire%2C%20it%20is%20rare.
+16. 
