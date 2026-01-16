@@ -57,7 +57,7 @@ Figure 4b shows the percentage change in species relative abundance since 2013. 
 
 ###### *Figure 5a: Annual abundance was computed by taking a geometric mean of all RA indices for a species in a particular year. RA was computed by dividing the index from any survey year by the baseline index. The smoothed trend was compiled by extracting median annual predictions from the 'bootstrapped' stage 2 GAM model. For more information about the GAM models used in this report, click here.*
 <br>
-Figure 5a shows RA trends for the Essex and Small Skipper since 1993. In 2023, RA reached its highest recorded level since 2016, although the long-term trends continued fall. Two periods of decline were observed: between 1997 and 2004 RA fell by 8%/yr on average. Then from 2015, following a period of stability, RA declined at an average rate of 18%/yr. 
+Figure 5a shows RA trends for the Essex and Small Skipper since 1993. In 2023, RA reached its highest recorded level since 2016, although long-term trends continued to fall. Two periods of decline were observed: between 1997 and 2004 RA fell by 8%/yr on average. Then from 2015, following a period of stability, RA declined at an average rate of 18%/yr. 
 <br><br>
 The first period of decline can be linked to the introduction of neonicotinoids, first used in UK agriculture in 1993. The Essex and Small Skipper are particularly susceptible to these chemicals, since their primary food sources, Yorkshire Fog and Cocks Foot, grow on field boundaries. It is difficult to explain the brief period of stability between 2006 and 2015, but continued use of neonicotinoids on winter crops, and sugar beet in 2022, despite a partial ‘ban’, have likely contributed to the continuing decline.  
 
