@@ -26,6 +26,7 @@ In this project, UKBMS survey data is used to model the relative abundance (RA) 
 Of the 17 species analysed, nearly a third are found to be in long term decline, with 24% showing both short- and long-term decline. The Essex Skipper and Small Skipper have been identified as ‘high risk’, with population levels falling by 90% since 1993. Another struggler, the Small Tortoiseshell has declined at an average rate of 5%/yr since 1993 and is forecast to become ‘high risk’ in 2037 if long term trends continue. Possible causes are found to be agricultural pollution, climate change and the influence of invasive species. The remainder of this report will highlight key metrics in the worst performing species, the implications and possible solutions. Figure 3a, below, summarises the performance of all butterfly species over the last 10-30 years. In section 4, a general overview of long and short term species abundance is provided. Species-specific insights are found in section 5. Section 6 suggests likely outcomes if current trends continue. Finally, in section 7, the recommended actions are detailed.
 
 <p align='left'><img src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
+
 **Figure 3a: Relative Abundance of UK Butterflies**
 
 ## 4. General Insights
