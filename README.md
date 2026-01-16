@@ -26,15 +26,16 @@ In this project, UKBMS survey data is used to model the relative abundance (RA) 
 Of the 17 species analysed, nearly a third are found to be in long term decline, with 24% showing both short- and long-term decline. The Essex Skipper and Small Skipper have been identified as ‘high risk’, with population levels falling by 90% since 1993. Another struggler, the Small Tortoiseshell has declined at an average rate of 5%/yr since 1993 and is forecast to become ‘high risk’ in 2037 if long term trends continue. Possible causes are found to be agricultural pollution, climate change and the influence of invasive species. The remainder of this report will highlight key metrics in the worst performing species, the implications and possible solutions. Figure 3a, below, summarises the performance of all butterfly species over the last 10-30 years. In section 4, a general overview of long and short term species abundance is provided. Species-specific insights are found in section 5. Section 6 suggests likely outcomes if current trends continue. Finally, in section 7, the recommended actions are detailed.
 
 <h3 align='left'>Figure 3a: Relative Abundance of UK Butterflies</h3>
-<p align='left'><img src='images/executive_summary/long_term_vs_short_term.png' width=760><br>
-<h6 em><strong>Figure 3a: Note that 'long term' relates to the period 1993-2023, and 'short term' 2013-2023. Species with decreasing relative abundance (RA) are highlighted below the plot. To see how the plot was produced, click here.</strong></em h6></p>
+<p align='left'><img src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
+
+###### *Figure 3a: Note that 'long term' relates to the period 1993-2023, and 'short term' 2013-2023. Species with decreasing relative abundance (RA) are highlighted below the plot. To see how the plot was produced, click here.*
 
 ## 4. General Insights
 <h3 align='left'>Figure 4a: Long Term Changes</h3>
 <p align='left'><image src='images/general_insights/long_term.png' width=1200></p>
 
 ###### *Figure 4a: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why RA change in some species is not significant, click here. A methodology for the plot is available here.*
-  
+<br> 
 Figure 4a shows the percentage change in species relative abundance since 1993. Excluding non-significant results, 41% of all species abundances decreased, with the Essex and small Skipper declining by the greatest magnitude (90%), followed by the Small Tortoiseshell (79%). The proportion of species which increased and decreased was reasonably balanced when grouped by habitat: 
 - 45% of species native to **‘hedgerow and field margin’** habitats declined, while 36% exhibited long term gains.
 - 56% of butterfly species typically found on **‘road verges’** declined. Long term gains were observed in the remaining species.
