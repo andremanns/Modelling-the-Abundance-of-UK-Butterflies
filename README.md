@@ -87,7 +87,7 @@ Figure 5d details RA trends for the Large Skipper between 1993 and 2023. Long te
 All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper. Recent accelerated declines mirror those seen in other ‘grass skippers’ (see Figure 3a for the Essex and Small Skipper trends).  
 
 ## 6. Future Outlook
-### The clock is ticking on UK butteflies: two species face extinction threat, and more could follow...
+### The clock is ticking for UK butteflies: two species are threatened, and more could follow...
 
 <p align='left'><image src='images/species_insights/species_timeline.png' width=800></p>
 
