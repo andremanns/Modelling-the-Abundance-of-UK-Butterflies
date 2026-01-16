@@ -40,7 +40,7 @@ Figure 4a shows the percentage change in species relative abundance since 1993. 
 <h3 align='left'>Figure 4b: Short Term Changes</h3>
 <p align='left'><image src='images/general_insights/short_term.png' width=1200></p>
   
-Figure 4b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains, declined by 43% and 25% respectively. When grouped by habitat, species performance was mixed:
+Figure 4b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains, declined by 43% and 25% respectively. When grouped by habitat, the proportion of species with increasing or decreasing RA was mixed:
 - For species prevalent in **'hedgerow and field margin habitats'**, 42% declined, while 25% increased. 
 - Relative abundance in 44% of butterflies common to **'road verges'** decreased while an increase was observed in a third of these species.  
 - 60% of species associated with **'damp grassland and meadows'** declined, with no increases documented. 
