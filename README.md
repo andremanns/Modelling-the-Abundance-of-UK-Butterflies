@@ -107,16 +107,16 @@ All three Skippers share common food sources, but unlike its relatives, Large Sk
 Despite reduced use in the UK since 2018, neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot due to their application on winter crops and estimated half-life of three years. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields. 
 - In 2023, the Essex and Small Skipper were officially declared ‘high risk’.
 - Following the introduction of neonicotinoids in 1993, Essex and Small Skipper population levels have declined by 90%.
-- Large Skipper abundance is down 48% on 1993 levels. 
+- Large Skipper RA is down 48% on 1993 levels. 
 
 ### Small Tortoiseshells to benefit from invasive species monitoring…
 Invasive species Sturmia Bella have been associated with the decline of Small Tortoiseshells, although it is likely the decrease is multifactorial. Detailed abundance and occupancy surveys will be important for quantifying their impact. 
 - Small Tortoiseshell butterflies have declined at a rate of more than 5%/yr since 1993.
-- In 2023, the annual abundance of Small Tortoiseshell butterflies dropped to levels not seen since 2008.
+- In 2023, the annual RA of Small Tortoiseshell butterflies dropped to levels not seen since 2008.
 
 ### Water retention in lush grassland habitats is key for the Green-veined White…
 Planting trees and hedges in field boundaries is estimated to increase water infiltration up to 60 times and can be an effective flood prevention strategy for farmers in the wetter months. 
 - Since 2004 three severe drought periods have placed increased strain on lush grasslands; areas commonly occupied by the green-veined white.
-- Relative abundance of green-veined white populations has declined since the mid-late 2000s, with a 34% decrease witnessed in the last decade. 
+- RA of green-veined white populations has declined since the mid-late 2000s, with a 34% decrease witnessed in the last decade. 
 
 
