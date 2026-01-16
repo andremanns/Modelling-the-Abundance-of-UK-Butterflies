@@ -104,20 +104,20 @@ All three Skippers share common food sources, but unlike its relatives, Large Sk
 
 ## 7. Recommendations
 ### Blanket ban on neonicotinoids pivotal for the Skipper revival…
-Despite reduced use in the UK since 2018, neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot due to their application on winter crops and estimated half-life of three years. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields. 
+Despite reduced use in the UK since 2018, neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot due to their application on winter crops and estimated half-life of three years [17]. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields [18]. 
 - In 2023, the Essex and Small Skipper were officially declared ‘high risk’.
 - Following the introduction of neonicotinoids in 1993, Essex and Small Skipper population levels have declined by 90%.
 - Large Skipper RA is down 48% on 1993 levels. 
 
 ### Small Tortoiseshells to benefit from invasive species monitoring…
-Invasive species Sturmia Bella have been associated with the decline of Small Tortoiseshells, although it is likely the decrease is multifactorial. Detailed abundance and occupancy surveys will be important for quantifying their impact. 
+Invasive species Sturmia Bella have been associated with the decline of Small Tortoiseshells [10], although it is likely the decrease is multifactorial. Detailed abundance and occupancy surveys will be important for quantifying their impact. 
 - Small Tortoiseshell butterflies have declined at a rate of more than 5%/yr since 1993.
 - In 2023, the annual RA of Small Tortoiseshell butterflies dropped to levels not seen since 2008.
 
 ### Water retention in lush grassland habitats is key for the Green-veined White…
-Planting trees and hedges in field boundaries is estimated to increase water infiltration up to 60 times and can be an effective flood prevention strategy for farmers in the wetter months. 
-- Since 2004 three severe drought periods have placed increased strain on lush grasslands; areas commonly occupied by the green-veined white.
-- RA of green-veined white populations has declined since the mid-late 2000s, with a 34% decrease witnessed in the last decade.
+Planting trees and hedges in field boundaries is estimated to increase water infiltration up to 60 times [19] and can be an effective flood prevention strategy for farmers in the wetter months. 
+- Since 2004 four severe drought periods have placed increased strain on lush grasslands [13]; areas commonly occupied by the green-veined white.
+- RA of Green-veined White populations has declined since the mid-late 2000s, with a 34% decrease witnessed in the last decade.
 
 ### No-mow an easy win…
 Mowing roadside vegetation less frequently and collecting cuttings reduces soil fertility, allowing wildflowers such as ‘Dark Mullein’ and ‘Birds-foot-trefoil’ to become established, and butterflies in these habitats to prosper. The economic benefit from reduced cutting is another reason to adopt this approach.   
@@ -158,4 +158,10 @@ Mowing roadside vegetation less frequently and collecting cuttings reduces soil 
     https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/large-skipper
 16. Purple Moor-grass, Habitats
     https://freshwaterhabitats.org.uk/species/purple-moor-grass-molinia-caerulea/#:~:text=Habitat,in%20Oxfordshire%2C%20it%20is%20rare.
-16. 
+17. Neonicotinoid Insecticides, The European ban
+    https://www.buglife.org.uk/campaigns/pesticides/neonicotinoid-insecticides/
+18. New Alternatives to Neonicotinoids: Can Farmers Protect Crops Without Harming Pollinators? Key Findings: The Good and the Gaps
+    https://beeconservation.org.uk/blogs/news/new-alternatives-to-neonicotinoids-can-farmers-protect-crops-without-harming-pollinators
+19. Can tree shelterbelts on agricultural land reduce flood risk? Abstract.
+    https://www.researchgate.net/publication/230136344_Can_tree_shelterbelts_on_agricultural_land_reduce_flood_risk
+20. 
