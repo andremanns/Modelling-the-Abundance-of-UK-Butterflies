@@ -59,7 +59,7 @@ Figure 4b shows the percentage change in species relative abundance since 2013. 
 <br>
 Figure 5a shows RA trends for the Essex and Small Skipper since 1993. In 2023, RA reached its highest recorded level since 2016, although long-term trends continued to fall. Two periods of decline were observed: between 1997 and 2004 RA fell by 8%/yr on average. Then from 2015, following a period of stability, RA declined at an average rate of 18%/yr. 
 <br><br>
-The first period of decline can be linked to the introduction of neonicotinoids, first used in UK agriculture in 1993. The Essex and Small Skipper are particularly susceptible to these chemicals, since their primary food sources, Yorkshire Fog and Cocks Foot, grow on field boundaries. It is difficult to explain the brief period of stability between 2006 and 2015, but continued use of neonicotinoids on winter crops, and sugar beet in 2022, despite a partial ‘ban’, have likely contributed to the continuing decline.  
+The first period of decline can be linked to the introduction of neonicotinoids, first used in UK agriculture in 1993 [7]. The Essex and Small Skipper are particularly susceptible to these chemicals, since their primary food sources, Yorkshire Fog and Cocks Foot, grow on field boundaries [8]. It is difficult to explain the brief period of stability between 2006 and 2015, but continued use of neonicotinoids on winter crops, and sugar beet in 2022, despite a partial ‘ban’, have likely contributed to the continuing decline [9].  
 
 ### Figure 5b: Small Tortoiseshell
 <p align='left'><image src='images/species_insights/relative_abundance_s_tortoiseshell.png' width=600></p>
@@ -138,4 +138,10 @@ Mowing roadside vegetation less frequently and collecting cuttings reduces soil 
    https://butterfly-conservation.org/our-work/habitat-management/urban-and-post-industrial
 6. Grassland and Heathland, Damp Grassland and Meadows.
    https://butterfly-conservation.org/our-work/habitat-management/grassland-and-heathland
-7. 
+7. Insects and Insecticides, Neonicotinoids.
+   https://publications.parliament.uk/pa/cm201213/cmselect/cmenvaud/writev/668/m31.htm
+8. Urban Butterflies, A guide to managing urban habitats for butterflies, pages 4.
+   https://www.butterfly-conservation.org/sites/default/files/2024-09/Urban%20Butterfly%20Brochure%20FINAL.pdf
+9. Statement on the emergency authorisation for limited use of a neonicotinoid seed treatment for the 2022 sugar beet crop
+   https://www.britishsugar.co.uk/media/news/2022-01-14-statement-on-the-emergency-authorisation-for-limited-use-of-a-neonicotinoid-seed-treatment-for-the-2022-sugar-beet-crop
+10. 
