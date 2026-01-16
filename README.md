@@ -30,7 +30,7 @@ Figure 1a summarises the performance of all butterfly species over the last 10-3
 
 ## 2. General Insights
 <h3 align='left'>Figure 1b: Long Term Changes</h3>
-<p align='left'><image src='images/general_insights/long_term.png' width=667></p>
+<p align='left'><image src='images/general_insights/long_term.png' width=850></p>
   
 Figure 2a shows the percentage change in species relative abundance since 1993. Excluding non-significant results, 41% of all species abundances decreased, with the Essex and small Skipper declining by the greatest magnitude (90%), followed by the Small Tortoiseshell (79%). The proportion of species which increased and decreased was reasonably balanced when grouped by habitat: 
 - 45% of species native to ‘hedgerow and field margin’ habitats declined, while 36% exhibited long term gains.
@@ -38,7 +38,7 @@ Figure 2a shows the percentage change in species relative abundance since 1993. 
 - Most ‘damp grassland and meadow’ species declined (60%) with the remainder increasing.
 
 <h3 align='left'>Figure 1c: Short Term Changes</h3>
-<p align='left'><image src='images/general_insights/short_term.png' width=673></p>
+<p align='left'><image src='images/general_insights/short_term.png' width=850></p>
   
 Figure 2b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains, declined by 43% and 25% respectively. When grouped by habitat, species performance was mixed:
 - For species prevalent in hedgerow and field margin habitats, 42% declined, while 25% increased. 
