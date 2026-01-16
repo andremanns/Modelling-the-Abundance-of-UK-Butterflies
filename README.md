@@ -37,7 +37,7 @@ Of the 17 species analysed, nearly a third are found to be in long term decline,
 Figure 4a shows the percentage change in species relative abundance since 1993. Excluding non-significant results, RA in 41% of the species analysed decreased, with the Essex and small Skipper declining by the greatest magnitude (90%), followed by the Small Tortoiseshell (79%). The proportion of species which increased and decreased was reasonably balanced when grouped by habitat: 
 - 45% of species native to ‘**hedgerow and field margin**’ habitats declined, while 36% exhibited long term gains.
 - 56% of butterfly species typically found on ‘**road verges**’ declined. Long term gains were observed in the remaining species.
-- Most ‘**damp grassland and meadow**’ species declined (60%) with the remainder increasing.
+- 3 out of 5 ‘**damp grassland and meadow**’ species declined with the remainder increasing.
 
 <h3 align='left'>Figure 4b: Short Term Changes</h3>
 <p align='left'><image src='images/general_insights/short_term.png' width=1200></p>
