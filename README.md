@@ -31,7 +31,7 @@ Of the 17 species analysed, nearly a third are found to be in long term decline,
 <h3 align='left'>Figure 4a: Long Term Changes</h3>
 <p align='left'><image src='images/general_insights/long_term.png' width=1200></p>
 
-###### *Figure 4a: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some long term RA changes are not significant, click here. A methodology for the plot is available here.*
+###### *Figure 4a: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some long term RA changes are not significant, click here.*
 <br> 
 
 Figure 4a shows the percentage change in species relative abundance since 1993. Excluding non-significant results, RA in 41% of the species analysed decreased, with the Essex and small Skipper declining by the greatest magnitude (90%), followed by the Small Tortoiseshell (79%). The proportion of species which increased and decreased was reasonably balanced when grouped by habitat: 
@@ -42,7 +42,7 @@ Figure 4a shows the percentage change in species relative abundance since 1993. 
 <h3 align='left'>Figure 4b: Short Term Changes</h3>
 <p align='left'><image src='images/general_insights/short_term.png' width=1200></p>
 
-###### *Figure 4b: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some short term RA changes are not significant, click here. A methodology for the plot is available here.*
+###### *Figure 4b: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some short term RA changes are not significant, click here.*
 <br>
 
 Figure 4b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains (see figure 4a), declined by 43% and 25% respectively. When grouped by habitat, the proportion of species with increasing or decreasing RA was mixed:
