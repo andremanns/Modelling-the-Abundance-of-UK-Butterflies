@@ -68,7 +68,7 @@ The first period of decline can be linked to the introduction of neonicotinoids,
 <br>
 RA trends from 1993, are illustrated for the Small Tortoiseshell in figure 5b. Decline in RA occurred over two periods: between 1996 and 2002 (-63%), and then again between 2017 and 2023 (-28%). The rate of decline during the latest period was slightly lower at 5%/yr compared to 9%/yr in the 6 years pre-2002. 
 <br><br>
-The initial decline corresponds with the settling of invasive species Sturmia Bella from continental Europe in the 1990s [5]. Sturmia Bella threaten Small Tortoiseshells, because both species occupy the common nettle at the beginning of their lifecycle. Sturmia Bella eggs, hatch after being consumed by Small Tortoiseshell caterpillars, killing the host. Reduced rates of decline suggest possible adaptation. Instances of early hibernation in the species has been noted [6], and a change in brooding pattern could reduce interactions with Sturmia Bella larvae. However, it is more likely, anomalous seasonal cycles have been triggered by warmer Springs, an effect of climate change. 
+The initial decline corresponds with the settling of invasive species Sturmia Bella from continental Europe in the 1990s [10]. Sturmia Bella threaten Small Tortoiseshells, because both species occupy the common nettle at the beginning of their lifecycle. Sturmia Bella eggs, hatch after being consumed by Small Tortoiseshell caterpillars, killing the host [10]. Reduced rates of decline suggest possible adaptation. Instances of early hibernation in the species has been noted [11], and a change in seasonality could affect brooding patterns, thereby reducing interactions with Sturmia Bella larvae. However, it is more likely, anomalous seasonal cycles have been triggered by warmer Springs [12], an effect of climate change. 
 
 ### Figure 5c: Green-veined White
 <p align='left'><image src='images/species_insights/relative_abundance_gv_white.png' width=600></p>
@@ -144,4 +144,9 @@ Mowing roadside vegetation less frequently and collecting cuttings reduces soil 
    https://www.butterfly-conservation.org/sites/default/files/2024-09/Urban%20Butterfly%20Brochure%20FINAL.pdf
 9. Statement on the emergency authorisation for limited use of a neonicotinoid seed treatment for the 2022 sugar beet crop
    https://www.britishsugar.co.uk/media/news/2022-01-14-statement-on-the-emergency-authorisation-for-limited-use-of-a-neonicotinoid-seed-treatment-for-the-2022-sugar-beet-crop
-10. 
+10. What's eating the Small Tortoiseshell? OSB: Why is the Small Tortoiseshell decline a particular concern?
+    https://www.ox.ac.uk/news/science-blog/whats-eating-small-tortoiseshell
+11. Where have all the Small Tortoiseshells gone? What is happening in 2020?
+    https://butterfly-conservation.org/news-and-blog/where-have-all-the-small-tortoiseshells-gone
+12. Small Tortoiseshell, What happens in winter?
+    https://wlgf.org/wildlife/arthropods/insects/butterflies-and-moths/butterflies/vanessids/small-tortoiseshell/
