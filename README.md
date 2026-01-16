@@ -121,8 +121,8 @@ Planting trees and hedges in field boundaries is estimated to increase water inf
 
 ### No-mow an easy win…
 Mowing roadside vegetation less frequently and collecting cuttings reduces soil fertility [20], allowing wildflowers such as ‘Dark Mullein’ and ‘Birds-foot-trefoil’ to become established, and butterflies in these habitats to prosper [21]. The economic benefit from reduced cutting is another reason to adopt this approach.   
-- 5 of 7 UK butterflies in long term decline commonly occupy roadside verges (see figure 4a).
-- 44% of ‘roadside verge butterflies’ have shown significant short-term decline (see figure 4b).
+- 5 of 7 UK butterflies in long term decline commonly occupy roadside verges.
+- 44% of ‘roadside verge butterflies’ have shown significant short-term decline.
 - Dorset council saved £100,000 in 2015 and 2016 by implementing a new road verge management plan [22]. A key component involved reduced road verge cutting, with some locations receiving only 1 cut through the year.  
 
 ## 8. References
