@@ -125,4 +125,14 @@ Mowing roadside vegetation less frequently and collecting cuttings reduces soil 
 - 44% of ‘roadside verge butterflies’ have shown significant short-term decline (see figure 4b).
 - Dorset council saved £100,000 in 2015 and 2016 by implementing a new road verge management plan. A key component involved reduced road verge cutting, with some locations receiving only 1 cut through the year.  
 
-
+## 8. References
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
