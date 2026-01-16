@@ -28,7 +28,7 @@ Of the 17 species analysed, nearly a third are found to be in long term decline,
 <h3 align='left'>Figure 3a: Relative Abundance of UK Butterflies</h3>
 <p align='left'><img src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
 
-##### ***Figure 3a illustrates the change in long and short term relative abundance (RA) for all 17 species analysed. Note that 'long term' relates to the period 1993-2023, and 'short term' 2013-2023. Species with decreasing RA are highlighted below the plot. To see how the plot was produced, click here.***
+##### *Figure 3a illustrates the change in long and short term relative abundance (RA) for all 17 species analysed. Note that 'long term' relates to the period 1993-2023, and 'short term' 2013-2023. Species with decreasing RA are highlighted below the plot. To see how the plot was produced, click here.*
 
 ## 4. General Insights
 <h3 align='left'>Figure 4a: Long Term Changes</h3>
