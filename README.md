@@ -1,6 +1,6 @@
 <h1 align='center'>Modelling the Abundance of UK Butterflies</h1>
 
-## Project Background
+## 1. Project Background
 ### Context
 As part of a new government-led green initiative to prevent biodiversity loss, regional councils are to receive a ‘nature grant’ that will be allocated for habitat restoration and species protection. This comes after a report in the State of Nature revealed the number endangered species in Great Britain had risen to 16% [1]. Many experts believe this is likely the result of environmental pressures such as, climate change, air pollution, agricultural pollution and invasive species [1].
 ### The Goal
@@ -10,7 +10,7 @@ The UKDWC is a non-profit environmental research organisation, that monitors bio
 
 <p align='left'><image src='images/project_background/logo.png' width=300></p>
 
-## Data Sourcing & Project Data
+## 2. Data Sourcing & Project Data
 Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology). Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were cleaned and joined in Python to form the main project dataset ‘UKBMS_cleaned_v1’. 
 
 <p align='left'><image src='images/project_background/data_structure.png' width=500></p>
@@ -20,58 +20,58 @@ ukbms_site_location_cleaning
 ukbms_site_indices_cleaning
 join_indices_location
 
-## 1. Executive Summary
+## 3. Executive Summary
 In this project, UKBMS survey data is used to model the relative abundance of UK butterflies over the last 30 years. 
 Of the 17 species analysed, nearly a third are found to be in long term decline, with 24% showing both short- and long-term decline. The Essex Skipper and Small Skipper have been identified as ‘high risk’, with population levels falling by 90% since 1993. Another struggler, the Small Tortoiseshell has declined at a rate of 5%/yr since 1993 and is forecast to become ‘high risk’ in 2037 if long term trends continue. Possible causes are found to be agricultural pollution, climate change and the influence of invasive species. The remainder of this report will highlight key metrics in the worst performing species, the implications and possible solutions. 
 Figure 1a summarises the performance of all butterfly species over the last 10-30 years. Figures 1b and 1c illustrate short and long term changes in abundance respectively. 
 
-<h3 align='left'>Figure 1a: Relative Abundance of UK Butterflies</h3>
+<h3 align='left'>Figure 3a: Relative Abundance of UK Butterflies</h3>
 <p align='left'><img src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
 
-## 2. General Insights
-<h3 align='left'>Figure 1b: Long Term Changes</h3>
+## 4. General Insights
+<h3 align='left'>Figure 4a: Long Term Changes</h3>
 <p align='left'><image src='images/general_insights/long_term.png' width=1200></p>
   
-Figure 2a shows the percentage change in species relative abundance since 1993. Excluding non-significant results, 41% of all species abundances decreased, with the Essex and small Skipper declining by the greatest magnitude (90%), followed by the Small Tortoiseshell (79%). The proportion of species which increased and decreased was reasonably balanced when grouped by habitat: 
+Figure 4a shows the percentage change in species relative abundance since 1993. Excluding non-significant results, 41% of all species abundances decreased, with the Essex and small Skipper declining by the greatest magnitude (90%), followed by the Small Tortoiseshell (79%). The proportion of species which increased and decreased was reasonably balanced when grouped by habitat: 
 - 45% of species native to **‘hedgerow and field margin’** habitats declined, while 36% exhibited long term gains.
 - 56% of butterfly species typically found on **‘road verges’** declined. Long term gains were observed in the remaining species.
 - Most **‘damp grassland and meadow’** species declined (60%) with the remainder increasing.
 
-<h3 align='left'>Figure 1c: Short Term Changes</h3>
+<h3 align='left'>Figure 4b: Short Term Changes</h3>
 <p align='left'><image src='images/general_insights/short_term.png' width=1200></p>
   
-Figure 2b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains, declined by 43% and 25% respectively. When grouped by habitat, species performance was mixed:
+Figure 4b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains, declined by 43% and 25% respectively. When grouped by habitat, species performance was mixed:
 - For species prevalent in **'hedgerow and field margin habitats'**, 42% declined, while 25% increased. 
 - Relative abundance in 44% of butterflies common to **'road verges'** decreased while an increase was observed in a third of these species.  
 - 60% of species associated with **'damp grassland and meadows'** declined, with no increases documented. 
 
 
-## Species Specific Insights
-### Figure 2a: Essex & Small Skipper
+## 5. Species Specific Insights
+### Figure 5a: Essex & Small Skipper
 <p align='left'><image src='images/species_insights/relative_abundance_es_skipper.png' width=600></p>
-Figure 3a shows RA trends for the Essex and Small Skipper since 1993. In 2023, RA reached its highest recorded level since 2016, although the long-term trends continued fall. Two periods of decline were observed: between 1997 and 2004 RA fell by 8%/yr on average. Then from 2015, following a period of stability, RA declined at an average rate of 18%/yr. 
+Figure 5a shows RA trends for the Essex and Small Skipper since 1993. In 2023, RA reached its highest recorded level since 2016, although the long-term trends continued fall. Two periods of decline were observed: between 1997 and 2004 RA fell by 8%/yr on average. Then from 2015, following a period of stability, RA declined at an average rate of 18%/yr. 
 <br><br>
 The first period of decline can be linked to the introduction of neonicotinoids, first used in UK agriculture in 1993. The Essex and Small Skipper are particularly susceptible to these chemicals, since their primary food sources, Yorkshire Fog and Cocks Foot, grow on field boundaries. It is difficult to explain the brief period of stability between 2006 and 2015, but continued use of neonicotinoids on winter crops, and sugar beet in 2022, despite a partial ‘ban’, have likely contributed to the continuing decline.  
 
-### Figure 2b: Small Tortoiseshell
+### Figure 5b: Small Tortoiseshell
 <p align='left'><image src='images/species_insights/relative_abundance_s_tortoiseshell.png' width=600></p>
-RA trends from 1993, are illustrated for the Small Tortoiseshell in figure 3b. Decline in RA occurred over two periods: between 1996 and 2002 (-63%), and then again between 2017 and 2023 (-28%). The rate of decline during the latest period was slightly lower at 5%/yr compared to 9%/yr in the 6 years pre-2002. 
+RA trends from 1993, are illustrated for the Small Tortoiseshell in figure 5b. Decline in RA occurred over two periods: between 1996 and 2002 (-63%), and then again between 2017 and 2023 (-28%). The rate of decline during the latest period was slightly lower at 5%/yr compared to 9%/yr in the 6 years pre-2002. 
 <br><br>
 The initial decline corresponds with the settling of invasive species Sturmia Bella from continental Europe in the 1990s [5]. Sturmia Bella threaten Small Tortoiseshells, because both species occupy the common nettle at the beginning of their lifecycle. Sturmia Bella eggs, hatch after being consumed by Small Tortoiseshell caterpillars, killing the host. Reduced rates of decline suggest possible adaptation. Instances of early hibernation in the species has been noted [6], and a change in brooding pattern could reduce interactions with Sturmia Bella larvae. However, it is more likely, anomalous seasonal cycles have been triggered by warmer Springs, an effect of climate change. 
 
-### Figure 2c: Green-veined White
+### Figure 5c: Green-veined White
 <p align='left'><image src='images/species_insights/relative_abundance_gv_white.png' width=600></p>
-RA between 1993 and 2023 is shown for the Green-veined white in figure 3c. Over the study period, RA declined by 34% from its 1993 baseline, although it did increase steadily between 1993 and 2009 (+0.7%/yr). After this period, RA fell by 37% in total, and the rate of decline increased every year to more than 7%/yr in 2023.
+RA between 1993 and 2023 is shown for the Green-veined white in figure 5c. Over the study period, RA declined by 34% from its 1993 baseline, although it did increase steadily between 1993 and 2009 (+0.7%/yr). After this period, RA fell by 37% in total, and the rate of decline increased every year to more than 7%/yr in 2023.
 <br><br>  
 Decline of this species coincides with a period of increased National drought frequency (2004-2006, 2010-2012, 2016-2019 & 2022-2023). This is likely to have impacted access to its main food sources (garlic mustard and watercress) which thrive in lush grassland areas.  
 
-### Figure 2d: Large Skipper
+### Figure 5d: Large Skipper
 <p align='left'><image src='images/species_insights/relative_abundance_l_skipper.png' width=600></p>
-Figure 3d details RA trends for the Large Skipper between 1993 and 2023. Long term trends resembled those observed in the other ‘grass skippers’ (the Essex and Small Skipper) with two distinct periods of decline: 1993 to 2006 (-34%), and 2016 onwards (-31%). A small ‘rebound’ was observed in between these periods (+13%) but over the study length RA saw a net decrease of 48%. An accelerated rate of decline was observed after 2019, with record rates recorded in successive years (-4% in 2020, -7% in 2021, -8% in 2022 and -10% 2023). 
+Figure 5d details RA trends for the Large Skipper between 1993 and 2023. Long term trends resembled those observed in the other ‘grass skippers’ (the Essex and Small Skipper) with two distinct periods of decline: 1993 to 2006 (-34%), and 2016 onwards (-31%). A small ‘rebound’ was observed in between these periods (+13%) but over the study length RA saw a net decrease of 48%. An accelerated rate of decline was observed after 2019, with record rates recorded in successive years (-4% in 2020, -7% in 2021, -8% in 2022 and -10% 2023). 
 <br><br> 
 All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper. Recent accelerated declines mirror those seen in other ‘grass skippers’ (see Figure 3a for the Essex and Small Skipper trends).  
 
-## Future Outlook
+## 6. Future Outlook
 ### The clock is ticking on UK butteflies: two species face extinction threat, and more could follow...
 
 <p align='left'><image src='images/species_insights/species_timeline.png' width=800></p>
@@ -80,7 +80,7 @@ All three Skippers share common food sources, but unlike its relatives, Large Sk
 - Long term decline of the Small Tortoiseshell dropped to 79% in 2023, meaning it is considered 'moderate risk'. If long term trends continue, it will become high risk by 2037.
 - The Large Skipper is forecast to become 'moderate risk' within the next 30 years. 
 
-## Recommendations
+## 7. Recommendations
 ### Blanket ban on neonicotinoids pivotal for the Skipper revival…
 Despite reduced use in the UK since 2018, a half life of three years means neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields. 
 - In 2023, the Essex and Small Skipper were officially declared ‘high risk’.
