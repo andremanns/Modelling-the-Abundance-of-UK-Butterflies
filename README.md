@@ -120,10 +120,10 @@ Planting trees and hedges in field boundaries is estimated to increase water inf
 - RA of Green-veined White populations has declined since the mid-late 2000s, with a 34% decrease witnessed in the last decade.
 
 ### No-mow an easy win…
-Mowing roadside vegetation less frequently and collecting cuttings reduces soil fertility, allowing wildflowers such as ‘Dark Mullein’ and ‘Birds-foot-trefoil’ to become established, and butterflies in these habitats to prosper. The economic benefit from reduced cutting is another reason to adopt this approach.   
+Mowing roadside vegetation less frequently and collecting cuttings reduces soil fertility [20], allowing wildflowers such as ‘Dark Mullein’ and ‘Birds-foot-trefoil’ to become established, and butterflies in these habitats to prosper [21]. The economic benefit from reduced cutting is another reason to adopt this approach.   
 - 5 of 7 UK butterflies in long term decline commonly occupy roadside verges (see figure 4a).
 - 44% of ‘roadside verge butterflies’ have shown significant short-term decline (see figure 4b).
-- Dorset council saved £100,000 in 2015 and 2016 by implementing a new road verge management plan. A key component involved reduced road verge cutting, with some locations receiving only 1 cut through the year.  
+- Dorset council saved £100,000 in 2015 and 2016 by implementing a new road verge management plan [22]. A key component involved reduced road verge cutting, with some locations receiving only 1 cut through the year.  
 
 ## 8. References
 1. State of Nature 2023, page 4.
@@ -164,4 +164,10 @@ Mowing roadside vegetation less frequently and collecting cuttings reduces soil 
     https://beeconservation.org.uk/blogs/news/new-alternatives-to-neonicotinoids-can-farmers-protect-crops-without-harming-pollinators
 19. Can tree shelterbelts on agricultural land reduce flood risk? Abstract.
     https://www.researchgate.net/publication/230136344_Can_tree_shelterbelts_on_agricultural_land_reduce_flood_risk
-20. 
+20. Plantlife, Managing Grassland Road Verges, Executive summary
+    https://www.wildlifetrusts.org/sites/default/files/2019-09/Managing%20grassland%20road%20verges.pdf
+21. Go wild for wildflowers, What to sow.
+    https://butterfly-conservation.org/news-and-blog/go-wild-for-wildflowers
+22. Buglife, Managing Road Verges for Pollinators, Case studies, Dorset County Council
+    https://cdn.buglife.org.uk/2023/12/Managing-Road-Verges-for-Pollinators-10.pdf
+    
