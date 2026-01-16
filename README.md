@@ -11,14 +11,11 @@ The UKDWC is a non-profit environmental research organisation, that monitors bio
 <p align='left'><image src='images/project_background/logo.png' width=300></p>
 
 ## 2. Data Sourcing & Project Data
-Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology). Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were cleaned and joined in Python to form the main project dataset ‘UKBMS_cleaned_v1’. 
+Data for the project was acquired by accessing the UKBMS (UK Butterfly Monitoring Scheme) ecological survey data, made available by the UKCEH (UK Centre for Ecology and Hydrology). Two datasets were used: ‘site indices 2023’, and ‘site location data 2023’. Before, the analysis, both datasets were cleaned and joined (see table 2a) in Python to form the main project dataset ‘UKBMS_cleaned_v1’.
 
 <p align='left'><image src='images/project_background/data_structure.png' width=500></p>
 
-The code used to clean the original datasets is available here:
-ukbms_site_location_cleaning
-ukbms_site_indices_cleaning
-join_indices_location
+###### *Code used to clean the original datasets is available here: ukbms_site_location_cleaning, ukbms_site_indices_cleaning, join_indices_location. The full project methodology is available here.*
 
 ## 3. Executive Summary
 In this project, UKBMS survey data is used to model the relative abundance (RA) of UK butterflies over the last 30 years. For an overview of the methodology, click here. 
