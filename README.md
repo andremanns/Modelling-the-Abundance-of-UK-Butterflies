@@ -55,16 +55,19 @@ The first period of decline can be linked to the introduction of neonicotinoids,
 ### Figure 2b: Small Tortoiseshell
 <p align='left'><image src='images/species_insights/relative_abundance_s_tortoiseshell.png' width=600></p>
 RA trends from 1993, are illustrated for the Small Tortoiseshell in figure 3b. Decline in RA occurred over two periods: between 1996 and 2002 (-63%), and then again between 2017 and 2023 (-28%). The rate of decline during the latest period was slightly lower at 5%/yr compared to 9%/yr in the 6 years pre-2002. 
+
 The initial decline corresponds with the settling of invasive species Sturmia Bella from continental Europe in the 1990s [5]. Sturmia Bella threaten Small Tortoiseshells, because both species occupy the common nettle at the beginning of their lifecycle. Sturmia Bella eggs, hatch after being consumed by Small Tortoiseshell caterpillars, killing the host. Reduced rates of decline suggest possible adaptation. Instances of early hibernation in the species has been noted [6], and a change in brooding pattern could reduce interactions with Sturmia Bella larvae. However, it is more likely, anomalous seasonal cycles have been triggered by warmer Springs, an effect of climate change. 
 
 ### Figure 2c: Green-veined White
 <p align='left'><image src='images/species_insights/relative_abundance_gv_white.png' width=600></p>
 RA between 1993 and 2023 is shown for the Green-veined white in figure 3c. Over the study period, RA declined by 34% from its 1993 baseline, although it did increase steadily between 1993 and 2009 (+0.7%/yr). After this period, RA fell by 37% in total, and the rate of decline increased every year to more than 7%/yr in 2023.
+  
 Decline of this species coincides with a period of increased National drought frequency (2004-2006, 2010-2012, 2016-2019 & 2022-2023). This is likely to have impacted access to its main food sources (garlic mustard and watercress) which thrive in lush grassland areas.  
 
 ### Figure 2d: Large Skipper
 <p align='left'><image src='images/species_insights/relative_abundance_l_skipper.png' width=600></p>
 Figure 3d details RA trends for the Large Skipper between 1993 and 2023. Long term trends resembled those observed in the other ‘grass skippers’ (the Essex and Small Skipper) with two distinct periods of decline: 1993 to 2006 (-34%), and 2016 onwards (-31%). A small ‘rebound’ was observed in between these periods (+13%) but over the study length RA saw a net decrease of 48%. An accelerated rate of decline was observed after 2019, with record rates recorded in successive years (-4% in 2020, -7% in 2021, -8% in 2022 and -10% 2023). 
+  
 All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper. Recent accelerated declines mirror those seen in other ‘grass skippers’ (see Figure 3a for the Essex and Small Skipper trends).  
 
 ## Future Outlook
