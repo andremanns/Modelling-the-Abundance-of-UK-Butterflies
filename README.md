@@ -55,7 +55,7 @@ Figure 4b shows the percentage change in species relative abundance since 2013. 
 ### Figure 5a: Essex & Small Skipper
 <p align='left'><image src='images/species_insights/relative_abundance_es_skipper.png' width=600></p>
 
-###### *Figure 5a: Annual abundance is computed by taking a geometric mean of all RA indices for that species in a particular year. RA in the baseline year is simply the baseline index divided by index in that year, which is 1. The smoothed trend is the median annual prediction taken from the stage 2 GAM model. For more information about the GAM models used in this report, click here.*
+###### *Figure 5a: Annual abundance was computed by taking a geometric mean of all RA indices for a species in a particular year. RA was computed by dividing the index from any survey year by the baseline index. The smoothed trend was compiled by extracting median annual predictions from the 'bootstrapped' stage 2 GAM model. For more information about the GAM models used in this report, click here.*
 <br>
 Figure 5a shows RA trends for the Essex and Small Skipper since 1993. In 2023, RA reached its highest recorded level since 2016, although the long-term trends continued fall. Two periods of decline were observed: between 1997 and 2004 RA fell by 8%/yr on average. Then from 2015, following a period of stability, RA declined at an average rate of 18%/yr. 
 <br><br>
@@ -64,7 +64,7 @@ The first period of decline can be linked to the introduction of neonicotinoids,
 ### Figure 5b: Small Tortoiseshell
 <p align='left'><image src='images/species_insights/relative_abundance_s_tortoiseshell.png' width=600></p>
 
-###### *Figure 5b: Annual abundance is computed by taking a geometric mean of all RA indices for that species in a particular year. RA in the baseline year is simply the baseline index divided by index in that year, which is 1. The smoothed trend is the median annual prediction taken from the stage 2 GAM model. For more information about the GAM models used in this report, click here.*
+###### *Figure 5b: Annual abundance was computed by taking a geometric mean of all RA indices for a species in a particular year. RA was computed by dividing the index from any survey year by the baseline index. The smoothed trend was compiled by extracting median annual predictions from the 'bootstrapped' stage 2 GAM model. For more information about the GAM models used in this report, click here.*
 <br>
 RA trends from 1993, are illustrated for the Small Tortoiseshell in figure 5b. Decline in RA occurred over two periods: between 1996 and 2002 (-63%), and then again between 2017 and 2023 (-28%). The rate of decline during the latest period was slightly lower at 5%/yr compared to 9%/yr in the 6 years pre-2002. 
 <br><br>
@@ -73,7 +73,7 @@ The initial decline corresponds with the settling of invasive species Sturmia Be
 ### Figure 5c: Green-veined White
 <p align='left'><image src='images/species_insights/relative_abundance_gv_white.png' width=600></p>
 
-###### *Figure 5c: Annual abundance is computed by taking a geometric mean of all RA indices for that species in a particular year. RA in the baseline year is simply the baseline index divided by index in that year, which is 1. The smoothed trend is the median annual prediction taken from the stage 2 GAM model. For more information about the GAM models used in this report, click here.*
+###### *Figure 5c: Annual abundance was computed by taking a geometric mean of all RA indices for a species in a particular year. RA was computed by dividing the index from any survey year by the baseline index. The smoothed trend was compiled by extracting median annual predictions from the 'bootstrapped' stage 2 GAM model. For more information about the GAM models used in this report, click here.*
 <br>
 RA between 1993 and 2023 is shown for the Green-veined white in figure 5c. Over the study period, RA declined by 34% from its 1993 baseline, although it did increase steadily between 1993 and 2009 (+0.7%/yr). After this period, RA fell by 37% in total, and the rate of decline increased every year to more than 7%/yr in 2023.
 <br><br>  
@@ -82,7 +82,7 @@ Decline of this species coincides with a period of increased National drought fr
 ### Figure 5d: Large Skipper
 <p align='left'><image src='images/species_insights/relative_abundance_l_skipper.png' width=600></p>
 
-###### *Figure 5d: Annual abundance is computed by taking a geometric mean of all RA indices for that species in a particular year. RA in the baseline year is simply the baseline index divided by index in that year, which is 1. The smoothed trend is the median annual prediction taken from the stage 2 GAM model. For more information about the GAM models used in this report, click here.*
+###### *Figure 5d: Annual abundance was computed by taking a geometric mean of all RA indices for a species in a particular year. RA was computed by dividing the index from any survey year by the baseline index. The smoothed trend was compiled by extracting median annual predictions from the 'bootstrapped' stage 2 GAM model. For more information about the GAM models used in this report, click here.*
 <br>
 Figure 5d details RA trends for the Large Skipper between 1993 and 2023. Long term trends resembled those observed in the other ‘grass skippers’ (the Essex and Small Skipper) with two distinct periods of decline: 1993 to 2006 (-34%), and 2016 onwards (-31%). A small ‘rebound’ was observed in between these periods (+13%) but over the study length RA saw a net decrease of 48%. An accelerated rate of decline was observed after 2019, with record rates recorded in successive years (-4% in 2020, -7% in 2021, -8% in 2022 and -10% 2023). 
 <br><br> 
