@@ -88,12 +88,14 @@ Figure 5d details RA trends for the Large Skipper between 1993 and 2023. Long te
 <br><br> 
 All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper. Recent accelerated declines mirror those seen in other ‘grass skippers’ (see Figure 3a for the Essex and Small Skipper trends).  
 
-## 6. Future Outlook
-### Figure 6a: The clock is ticking for UK butteflies: two species are threatened, and more could follow...
+## 6. Looking to the Future
+### The clock is ticking for UK butteflies: two species are threatened, and more could follow...
+
+### Figure 6a: Species Risk Timeline 
 
 <p align='left'><image src='images/species_insights/species_timeline.png' width=800></p>
 
-###### *Figure 6a: A species is 'high risk' when the 'smoothed trend' for RA falls below 10% of its baseline (1993) level. Similarly, a species becomes 'moderate risk' when RA drops below 25%. Here, the average rate of decline since 1993 is used to estimate when a species will meet these thresholds. Thresholds are indicated by a colour coded 'X'.*
+###### *Figure 6a: A species is 'high risk' when the 'smoothed trend' for RA falls below 10% of its baseline (1993) level. Similarly, a species becomes 'moderate risk' when RA drops below 25% of its baseline. Here, the average rate of decline since 1993 is used to estimate when a species will meet these thresholds. Thresholds are indicated by a colour coded 'X'.*
 <br>
 
 - The Small and Essex Skipper are now classified as 'high risk', meaning population levels have decreased by at least 90% since the 1993 baseline survey.
