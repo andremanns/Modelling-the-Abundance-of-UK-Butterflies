@@ -30,7 +30,7 @@ Figure 1a summarises the performance of all butterfly species over the last 10-3
 
 ## 2. General Insights
 <h3 align='left'>Figure 1b: Long Term Changes</h3>
-<p align='left'><image src='images/executive_summary/long_term.png' width=667></p>
+<p align='left'><image src='images/general_insights/long_term.png' width=667></p>
   
 Figure 2a shows the percentage change in species relative abundance since 1993. Excluding non-significant results, 41% of all species abundances decreased, with the Essex and small Skipper declining by the greatest magnitude (90%), followed by the Small Tortoiseshell (79%). The proportion of species which increased and decreased was reasonably balanced when grouped by habitat: 
 - 45% of species native to ‘hedgerow and field margin’ habitats declined, while 36% exhibited long term gains.
@@ -38,7 +38,7 @@ Figure 2a shows the percentage change in species relative abundance since 1993. 
 - Most ‘damp grassland and meadow’ species declined (60%) with the remainder increasing.
 
 <h3 align='left'>Figure 1c: Short Term Changes</h3>
-<p align='left'><image src='images/executive_summary/short_term.png' width=673></p>
+<p align='left'><image src='images/general_insights/short_term.png' width=673></p>
   
 Figure 2b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains, declined by 43% and 25% respectively. When grouped by habitat, species performance was mixed:
 - For species prevalent in hedgerow and field margin habitats, 42% declined, while 25% increased. 
@@ -48,26 +48,26 @@ Figure 2b shows the percentage change in species relative abundance since 2013. 
 
 ## Species Specific Insights
 ### Figure 2a: Essex & Small Skipper
-<p align='left'><image src='images/insights/relative_abundance_es_skipper.png' width=600></p>
+<p align='left'><image src='images/species_insights/relative_abundance_es_skipper.png' width=600></p>
 The downward trend can be split into two periods: between 1997 and 2004 abundance fell by 8%/yr. Then after a brief period of stability, the decline started again, with abundance falling by 18% year on year since 2015. The first period of decline can be linked to the introduction of neonicotinoids, first used in UK agriculture in 1993. The Essex and Small Skipper are particularly susceptible to these chemicals, since their primary food sources, Yorkshire Fog and Cocks Foot, grow on field boundaries. It is difficult to explain the brief period of stability between 2006 and 2015, but continued use of neonicotinoids on winter crops, and sugar beet in 2022, despite a partial ‘ban’, have likely contributed to the continuing decline.  
 
 ### Figure 2b: Small Tortoiseshell
-<p align='left'><image src='images/insights/relative_abundance_s_tortoiseshell.png' width=600></p>
+<p align='left'><image src='images/species_insights/relative_abundance_s_tortoiseshell.png' width=600></p>
 Small Tortoiseshell numbers continue to fall, although the rate of decline has slowed (more than 6%/yr between 1993 and 2008 vs less than 4%/yr between 2008 and 2023). The initial decline corresponds with the settling of invasive species Sturmia Bella from continental Europe in the 1990s [5]. Sturmia Bella threaten Small Tortoiseshells, because both species occupy the common nettle at the beginning of their lifecycle. Sturmia Bella eggs, consumed by Small Tortoiseshell caterpillars, subsequently hatch killing their host. 
 Reduced rates of decline suggest possible adaptation. Instances of early hibernation in the species has been noted [6], and a change in brooding pattern could reduce interactions with Sturmia Bella larvae. However, it is more likely, this has been triggered by warmer Springs, an effect of climate change. 
 
 ### Figure 2c: Green-veined White
-<p align='left'><image src='images/insights/relative_abundance_gv_white.png' width=600></p>
+<p align='left'><image src='images/species_insights/relative_abundance_gv_white.png' width=600></p>
 Although the green-veined white has shown a long-term decline of 34%, it did increase steadily between 1993 and 2008 (0.8%/yr). Since then, the cumulative rate of decline, (starting from 2013) has increased year on year to more than 4%/yr in 2023. Its decline coincides with a period of increased National drought frequency (2004-2006, 2010-2012, 2016-2019 & 2022-2023). This is likely to have impacted access to its main food sources (garlic mustard and watercress) which often thrive in lush grassland areas. 
 
 ### Figure 2d: Large Skipper
-<p align='left'><image src='images/insights/relative_abundance_l_skipper.png' width=600></p>
+<p align='left'><image src='images/species_insights/relative_abundance_l_skipper.png' width=600></p>
 Long term trends for the Large Skipper mimic those seen in its close relatives, the Essex and Small Skipper, with two distinct periods of decline from 1993 to the mid-late 2000s, and 2015 onwards - although both long and short-term decline have been less severe at 46% and 29% respectively. All three Skippers share common food sources, but unlike its relatives, Large Skipper caterpillars also feed on Purple Moor-grass, which is typically not found in agricultural settings. Hence, the Large Skipper, remains exposed to neonicotinoids but to a lesser extent. This could explain why population levels have declined, but not to the same magnitude seen in the Small and Essex Skipper.   
 
 ## Future Outlook
 ### The clock is ticking on UK butteflies: two species face extinction threat, and more could follow...
 
-<p align='left'><image src='images/insights/species_timeline.png' width=800></p>
+<p align='left'><image src='images/species_insights/species_timeline.png' width=800></p>
 
 - The Small and Essex Skipper are now classified as 'high risk', meaning population levels have decreased by at least 90% of 1993 baseline levels.
 - Long term decline of the Small Tortoiseshell dropped to 79% in 2023, meaning it is considered 'moderate risk'. If long term trends continue, it will become high risk by 2037.
