@@ -2,7 +2,7 @@
 
 ## 1. Project Background
 ### Context
-As part of a new government-led green initiative to prevent biodiversity loss, regional councils are to receive a ‘nature grant’ that will be allocated for habitat restoration and species protection. This comes after a report in the State of Nature revealed the number of endangered species in Great Britain had risen to **16%** [1]. Many experts believe this is the result of environmental pressures such as, climate change, air pollution, agricultural pollution and invasive species [1].
+As part of a new government-led green initiative to prevent biodiversity loss, regional councils are to receive a ‘nature grant’ that will be allocated for habitat restoration and species protection. This comes after a report in the State of Nature revealed the number of endangered species in Great Britain had risen to 16% [1]. Many experts believe this is the result of environmental pressures such as, climate change, air pollution, agricultural pollution and invasive species [1].
 ### The Goal
 It is well known that butterflies are excellent indicators of terrestrial biodiversity, due to the diverse range of habitats they occupy, and their sensitivity to environmental changes. To help regional councils decide how they should allocate their grant, the UK Data for Wildlife Conservation (UKDWC) has been commissioned to produce a report detailing the abundance trends of butterflies on a national scale. The report will highlight species of butterfly in decline and produce a list of ‘recommended actions’ that regional decision makers can use to focus their budgets accordingly. 
 ### About the UKDWC
