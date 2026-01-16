@@ -112,7 +112,7 @@ Despite reduced use in the UK since 2018, neonicotinoids continue to contaminate
 ### Small Tortoiseshells to benefit from invasive species monitoring…
 Invasive species Sturmia Bella have been associated with the decline of Small Tortoiseshells, although it is likely the decrease is multifactorial. Detailed abundance and occupancy surveys will be important for quantifying their impact. 
 - Small Tortoiseshell butterflies have declined at a rate of more than 5%/yr since 1993.
-- In 2023, the abundance of Small Tortoiseshell butterflies dropped to levels not seen since 2008.
+- In 2023, the annual abundance of Small Tortoiseshell butterflies dropped to levels not seen since 2008.
 
 ### Water retention in lush grassland habitats is key for the Green-veined White…
 Planting trees and hedges in field boundaries is estimated to increase water infiltration up to 60 times and can be an effective flood prevention strategy for farmers in the wetter months. 
