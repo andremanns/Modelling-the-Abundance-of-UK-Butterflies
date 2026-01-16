@@ -117,6 +117,12 @@ Invasive species Sturmia Bella have been associated with the decline of Small To
 ### Water retention in lush grassland habitats is key for the Green-veined White…
 Planting trees and hedges in field boundaries is estimated to increase water infiltration up to 60 times and can be an effective flood prevention strategy for farmers in the wetter months. 
 - Since 2004 three severe drought periods have placed increased strain on lush grasslands; areas commonly occupied by the green-veined white.
-- RA of green-veined white populations has declined since the mid-late 2000s, with a 34% decrease witnessed in the last decade. 
+- RA of green-veined white populations has declined since the mid-late 2000s, with a 34% decrease witnessed in the last decade.
+
+### No-mow an easy win…
+Mowing roadside vegetation less frequently and collecting cuttings reduces soil fertility, allowing wildflowers such as ‘Dark Mullein’ and ‘Birds-foot-trefoil’ to become established, and butterflies in these habitats to prosper. The economic benefit from reduced cutting is another reason to adopt this approach.   
+- 5 of 7 UK butterflies in long term decline commonly occupy roadside verges (see figure 4a).
+- 44% of ‘roadside verge butterflies’ have shown significant short-term decline (see figure 4b).
+- Dorset council saved £100,000 in 2015 and 2016 by implementing a new road verge management plan. A key component involved reducing road verge cutting, with some locations receiving only 1 cut through the year.  
 
 
