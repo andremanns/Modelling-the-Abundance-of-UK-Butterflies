@@ -104,7 +104,7 @@ All three Skippers share common food sources, but unlike its relatives, Large Sk
 
 ## 7. Recommendations
 ### Blanket ban on neonicotinoids pivotal for the Skipper revival…
-Despite reduced use in the UK since 2018, a half life of three years means neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields. 
+Despite reduced use in the UK since 2018, neonicotinoids continue to contaminate key food sources such as Yorkshire Fog and Cocksfoot due to their application on winter crops and estimated half-life of three years. To prevent further use, farmers should be incentivised with subsidies to use less harmful alternatives such as chlorantraniliprole, which has been shown to produce effective corn yields. 
 - In 2023, the Essex and Small Skipper were officially declared ‘high risk’.
 - Following the introduction of neonicotinoids in 1993, Essex and Small Skipper population levels have declined by 90%.
 - Large Skipper abundance is down 48% on 1993 levels. 
