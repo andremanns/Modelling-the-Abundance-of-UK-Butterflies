@@ -40,3 +40,11 @@ GAMs were selected for their ability to capture non-linear trends - a characteri
 
 One issue to arise from this set up, was that many site/species combinations were not surveyed in the baseline year, limiting the sample size of RA training data for each species. This was a key consideration when deciding upon a suitable GAM structure. Several well-recognised options are evaluated in table 1.  
 
+![Alt text](/images/methodology/gam_structure_table.png)
+
+Summarising table 1:
+- Hierarchical GAMs, while preferred for their data sharing capabilities, were not feasible in Python.
+- A fixed effect GAM would be ineffective for analysing species-specific trends.
+- Both factor smooth models exhibited limited data sharing capabilities meaning a large proportion of survey data would be useless. Additionally, the sharing of hyperparameters in these last two models ignored the requirement for variable smooth complexity.
+
+It was decided that two single-term-GAMs would be implemented. A ‘stage 1 GAM’ for predicting missing baseline counts, and a ‘stage 2 GAM’ for relative abundance trends. In both models the explanatory variable would be time (in years). Prediction of missing baseline counts would enable the calculation of RA for more site/species combinations, reducing the need for data sharing, a limitation of the factor smooth models. 
