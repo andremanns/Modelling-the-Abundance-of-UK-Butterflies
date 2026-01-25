@@ -97,4 +97,89 @@ Optimisation was achieved by running models with different combinations of hyper
 	- Q-Q plot of residuals. 
 11.	Following evaluation in step 10, the optimal hyperparameters were selected and implemented into the final stage 1 GAM. Full code for this is available here: GAM model.
 
+## 4. Stage 2 GAM
+The aim was to predict RA (the response variable) as a function of time (the explanatory variable in years) across all species subsets. Unlike the stage 1 GAM (which predicted counts for a single year) models were evaluated based on their ability to capture long term trends.
+
+### i. Data Requirements
+The dataset was divided by species with the minimum sample size set to 500. Species subsets exhibiting more than 15% zero counts, were removed (see model distribution, selecting a model for details). 
+
+### ii. Model Optimisation
+Models were run with different combinations of hyperparameters. Optimisation of the hyperparameters was achieved using three selection criteria: GCV (General Cross Validation), AIC (Akaike Information Criterion) and BIC (Bayesian Information Criterion). All three criteria were considered advantageous based on their ability to reward goodness of fit (sum of the squares for GCV, log likelihood for AIC and BIC) and penalise complexity (a function of the effective degrees of freedom). The method is outlined below. Additionally, a detailed script is available here. 
+
+1.	The data was partitioned into species subsets. 
+2.	Relative abundance values were log transformed (for details see section titled ‘model distribution’).
+3.	Subsets were randomly split into five ‘train/test’ sets. Note that data was randomly split, not split sequentially (as is common for time-series data). This is because smooths were intended for summarisation of existing historical data, not for extrapolation.
+4.	The hyperparameters were defined: 5-6 basis functions, and 30 lambda values uniformly log spaced between 10¯³ and 10³. In total this produced 60 different hyperparameter combinations. 
+5.	A model was generated for each hyperparameter combination, using the species training data. For GCV and AIC models, this was achieved through ‘gridsearch’, which automatically selected the optimal hyperparameters based on the input selection criteria. For BIC, an optimal model was identified using manually computed scores (BIC is not automated with gridsearch). 
+6.	Optimised models (resulting from each of the model selection criteria) were used to generate predictions. Species test data was imputed into each of the models. 
+7.	Model fits were visually assessed using the following methods:
+	- Individual evaluation: models were assessed by overlaying test data, with the predicted relative abundance values. In this way it was possible to determine the goodness of fit.
+	- Comparative evaluation: predictions from all models (log form) were plotted on the same graph.
+	- Comparative evaluation: predictions from all models (following back-transformation) were plotted on the same graph.
+	- Fitted values vs Residuals: residuals from the two preferred models were plotted on the same graph to compare magnitude of error and bias. 
+	- Q-Q plots of the residuals. 
+8.	Numerical assessment involved comparison of complexity (effective degrees of freedom), MAE (Mean Absolute Error) and RMSE. 
+9.	Following evaluation, the optimal model selection criterion was determined and approved for use in the final analysis. 
+
+## 5. Bootstrapping
+Bootstrapping was used to estimate population central tendency (median RA) and variability (confidence intervals) for species abundance trends. Species subsets were resampled with replacement before running the stage 2 GAM. The process of resampling and modelling was integrated into a ‘for loop’ which repeated 500 times, meaning 500 RA predictions were made for each study year. 
+
+## 6. Statistical Significance
+The aim was to determine if increases or decreases in RA had occurred by chance. Four one-sided tests were performed with the confidence interval set to 0.95. The tests are listed below:
+
+- Long term RA increase
+- Long term RA decrease
+- Short term RA increase
+- Short term RA decrease
+
+The method involved analysing bootstrapped RA data from the stage 2 GAM. To evaluate long term changes, 2023 median RA was subtracted from baseline median RA for each resample. Hence, a negative value indicated a long-term increase in RA, while a positive value indicated a long-term decline. To test for a significant increase, negative values were assigned to ‘True’ and summed. The total was then divided by 500 (the number of resamples). A result ≥0.95 was required to achieve significance. In the reverse test (decrease), a true value was assigned to positive values. 
+For short term changes the same approach was used, only RA changes were evaluated by subtracting 2013 median RA from 2023 median RA. 
+
+## 7. References
+1.	Hierarchical generalized additive models in ecology: an introduction with mgcv, Smoothing penalties vs shrinkage penalties, A single common smoother plus group-level smoothers with differing wiggliness (Model GI). Pages 16-17.
+
+2.	Hierarchical generalized additive models in ecology: an introduction with mgcv, Smoothing penalties vs shrinkage penalties. Pages 6-7.
+
+3.	Using random effects in GAMs with mgcv, Smooths as random effects.
+https://fromthebottomoftheheap.net/2021/02/02/random-effects-in-gams/
+
+4.	The Effect. Chapter 16 – Fixed Effects, Question 2: How do we estimate a regression with individual intercepts?
+https://theeffectbook.net/ch-FixedEffects.html
+
+5.	Factor smooth interactions in GAMs, Factor by variables.
+https://stat.ethz.ch/R-manual/R-patched/RHOME/library/mgcv/html/factor.smooth.html
+
+6.	Generalized additive modelling and zero inflated count data, Abstract
+https://www.sciencedirect.com/science/article/abs/pii/S0304380002001941
+
+7.	Dealing with Varying Detection Probability, Unequal Sample Sizes and Clumped Distributions in Count Data, Introduction
+Dealing with Varying Detection Probability, Unequal Sample Sizes and Clumped Distributions in Count Data - PMC
+
+8.	An Overview of Modern Applications of Negative Binomial Modelling in Ecology and Biodiversity, Abstract. 
+https://www.mdpi.com/1424-2818/14/5/320
+
+9.	Evaluation of negative binomial and zero-inflated negative binomial models for the analysis of zero-inflated count data: application to the telemedicine for children with medical complexity trial, Conclusions
+https://pubmed.ncbi.nlm.nih.gov/37752579/
+
+10.	The consequences of checking for zero-inflation and overdispersion in the analysis of count data, Introduction
+https://arxiv.org/pdf/1911.00115
+
+11.	Poisson Regression: A Way to Model Count Data
+Poisson Regression: A Way to Model Count Data | DataCamp
+
+12.	Heteroscedasticity in Regression Analysis, Weighted regression
+https://statisticsbyjim.com/regression/heteroscedasticity-regression/
+
+13.	Two-sample tests of high-dimensional means for compositional data, 6.1 Analysis of obesity microbiome data, Yuanpei Cao, page 8.
+
+14.	Do not log-transform count data, Results.
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2010.00021.x
+
+15.	Dynamic Generalised Additive Models (DGAM) for forecasting discrete ecological time series, Introduction, Pages 6-7
+
+16.	The UN Environment Programme World Conservation Monitoring Centre, Metadata Factsheet. 5b. Method of Computation. 
+https://gbf-indicators.org/metadata/other/A-8-C
+
+
+
 
