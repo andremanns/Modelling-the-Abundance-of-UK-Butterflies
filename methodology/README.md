@@ -34,7 +34,7 @@ For small sample sizes RA is not very useful for summarising national trends. Na
 ### iii. Site/species combination
 Refers to a specific ‘survey grouping’ (a single species from a single site). For example, if 20 species are observed at site A, then 20 site/species combinations exist at this site. Similarly, if 20 of the same species are observed at sites A and B, then 40 site/species combinations exist across these two sites.
 
-## Model Selection
+## 2. Model Selection
 ### i. Model Structure
 GAMs were selected for their ability to capture non-linear trends - a characteristic associated with species abundance time-series data. Two explanatory variables were considered: time in years (assumed to be continuous for modelling); and species (categorical). The desired response variable was RA.
 
