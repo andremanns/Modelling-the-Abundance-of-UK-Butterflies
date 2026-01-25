@@ -18,7 +18,8 @@
   	2. Model Optimisation 	
 5.	Bootstrapping
 6.	Statistical Significance
-7.	References
+7.	License and Attribution Statement
+8.	References
 
 ## 1. Key Terms
 ### i. Baseline Index
@@ -135,7 +136,10 @@ The aim was to determine if increases or decreases in RA had occurred by chance.
 The method involved analysing bootstrapped RA data from the stage 2 GAM. To evaluate long term changes, 2023 median RA was subtracted from baseline median RA for each resample. Hence, a negative value indicated a long-term increase in RA, while a positive value indicated a long-term decline. To test for a significant increase, negative values were assigned to ‘True’ and summed. The total was then divided by 500 (the number of resamples). A result ≥0.95 was required to achieve significance. In the reverse test (decrease), a true value was assigned to positive values. 
 For short term changes the same approach was used, only RA changes were evaluated by subtracting 2013 median RA from 2023 median RA. 
 
-## 7. References
+## 7. License and Attribution Statement
+Contains UK Butterfly Monitoring Scheme (UKBMS) data © copyright and database right Butterfly Conservation, the Centre for Ecology & Hydrology, British Trust for Ornithology, and the Joint Nature Conservation Committee.
+
+## 8. References
 1.	Hierarchical generalized additive models in ecology: an introduction with mgcv, Smoothing penalties vs shrinkage penalties, A single common smoother plus group-level smoothers with differing wiggliness (Model GI). Pages 16-17.
 
 2.	Hierarchical generalized additive models in ecology: an introduction with mgcv, Smoothing penalties vs shrinkage penalties. Pages 6-7.
