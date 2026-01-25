@@ -92,9 +92,9 @@ Optimisation was achieved by running models with different combinations of hyper
 8.	Residuals were computed by subtracting model predictions from the ‘hidden’ baseline values (see step 3).
 9.	To determine model predictive power and bias, RMSE (Root Mean Square Error), correlation coefficient and ME (Mean Error) were computed for each of the hyperparameter combinations. Each of these metrics were visualised in terms of lambda and spline count. The aim here was not to select the best model, but to quickly identify the best candidates.
 10.	The best performing models were compared using three visualisations:
-- Predicted vs actual baseline count
-- Fitted baseline count vs Residuals
-- Q-Q plot of residuals. 
+	- Predicted vs actual baseline count
+	- Fitted baseline count vs Residuals
+	- Q-Q plot of residuals. 
 11.	Following evaluation in step 10, the optimal hyperparameters were selected and implemented into the final stage 1 GAM. Full code for this is available here: GAM model.
 
 
