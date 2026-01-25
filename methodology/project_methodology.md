@@ -2,7 +2,7 @@
 ## Contents
 
 1.	Key Terms
-- Baseline Index
+a.    Baseline Index
 - Relative Abundance / Index Ratio
 - Site/Species combinations
   	
