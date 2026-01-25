@@ -40,7 +40,9 @@ GAMs were selected for their ability to capture non-linear trends - a characteri
 
 One issue to arise from this set up, was that many site/species combinations were not surveyed in the baseline year, limiting the sample size of RA training data for each species. This was a key consideration when deciding upon a suitable GAM structure. Several well-recognised options are evaluated in table 1.  
 
-![Alt text](/images/methodology/gam_structure_table.png)
+<p align="center">
+  <img src="images/methodology/gam_structure_table.png" width="600" alt="gam structure table">
+</p>
 
 Summarising table 1:
 - Hierarchical GAMs, while preferred for their data sharing capabilities, were not feasible in Python.
