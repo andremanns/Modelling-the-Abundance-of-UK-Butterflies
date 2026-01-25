@@ -4,7 +4,8 @@
 1. Key Terms
     1.1. Baseline Index
     1.2. Relative Abundance / Index Ratio
-    1.3. Site/Species combinations	
+    1.3. Site/Species combinations
+   
 2.	Model Selection
 
     2.1. Model Structure
@@ -15,12 +16,12 @@
   	
       	2.2.2. Selecting a distribution
 	
-3.	Stage 1 GAM
+4.	Stage 1 GAM
    
     3.1. Data Requirements
   	
   	3.2. Model Optimisation 	
-4.	Stage 2 GAM
+5.	Stage 2 GAM
 
     4.1. Data Requirements
   	
