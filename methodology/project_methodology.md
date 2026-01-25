@@ -10,13 +10,14 @@
     1.3. Site/Species combinations	
 2.	Model Selection
 
-    3.1. Model Structure
+    2.1. Model Structure
   	
-  	3.2. Model Distribution
+  	2.2. Model Distribution
   	
-      	3.1.1. Profiling the Data
+      	2.2.1. Profiling the Data
   	
-      	3.1.2. Selecting a distribution 	
+      	2.2.2. Selecting a distribution
+	
 3.	Stage 1 GAM
    
     3.1. Data Requirements
