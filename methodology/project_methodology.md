@@ -26,7 +26,8 @@
 4.	Stage 2 GAM
 
     4.1. Data Requirements
+  	
     4.2. Model Optimisation 	
-5.	Bootstrapping
-6.	Statistical Significance
-7.	References
+6.	Bootstrapping
+7.	Statistical Significance
+8.	References
