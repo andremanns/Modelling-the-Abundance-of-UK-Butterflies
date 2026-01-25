@@ -2,9 +2,9 @@
 ## Contents
 
 1.	Key Terms
-    a. Baseline Index
-- Relative Abundance / Index Ratio
-- Site/Species combinations
+    1a. Baseline Index
+    1b. Relative Abundance / Index Ratio
+    1c. Site/Species combinations
   	
 3.	Model Selection
   a.	Model Structure
