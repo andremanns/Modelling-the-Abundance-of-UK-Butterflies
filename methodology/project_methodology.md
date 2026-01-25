@@ -1,5 +1,6 @@
 # Project Methodology
 ## Contents
+
 1.	Key Terms
   a. Baseline Index
   b.	Relative Abundance / Index Ratio
