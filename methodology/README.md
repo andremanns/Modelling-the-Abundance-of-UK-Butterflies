@@ -43,6 +43,8 @@ One issue to arise from this set up, was that many site/species combinations wer
 
 
 ![Alt text](/images/methodology/gam_structure_table.png)
+###### Table 1: Integers in GAM equations are used to represent the order of the input variables. Smooth terms are represented by s() and factor terms f().
+
 
 Summarising table 1:
 - Hierarchical GAMs, while preferred for their data sharing capabilities, were not feasible in Python.
