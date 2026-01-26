@@ -70,7 +70,7 @@ A solution was to log transform count data using log(x+ɛ) where ɛ, a small con
 
 Better compliance with the Gaussian assumptions meant the data could be modelled after transformation. This method was approved for the stage 1 GAM (count data) and the stage 2 GAM (RA). 
 
-To minimise bias and error associated with log transformation, species subsets were omitted if zero counts, exceeded 15%. This is approximately the threshold observed by B. O’Hara et al, below which the log(x+1) transformation exhibited the least error and bias when compared with other transformations in generalised linear models [14]. 
+To minimise bias and error associated with log transformation, species subsets and site/species combination groups were omitted if zero counts exceeded 15%.  This is approximately the threshold observed by B. O’Hara et al, below which the log(x+1) transformation exhibited the least error and bias when compared with other transformations in generalised linear models [14]. 
 
 ## 3. Stage 1 GAM
 The aim was to predict abundance (the response variable) as a function of time (the explanatory variable in years) for site/species combinations without a baseline survey. 
