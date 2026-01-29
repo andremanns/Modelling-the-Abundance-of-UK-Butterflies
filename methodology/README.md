@@ -2,14 +2,14 @@
 ## Contents
 
 [1. Key Terms](#1-Key-Terms) <br>
-	[1. Baseline Index](#i-Baseline-Index)
-	2. Relative Abundance/Index Ratio
-	3. Site/Species combinations
-2.	Model Selection
-	1. Model Structure
-	2. Model Distribution
-	  	- Profiling the Data
-	  	- Selecting a distribution
+	[1. Baseline Index](#i-Baseline-Index) <br>
+	[2. Relative Abundance/Index Ratio](#ii-Relative-Abundance--Index-Ratio)
+	[3. Site/Species Combinations](#iii-Site-species-Combination)
+[2.	Model Selection](#2-Model-Selection)
+	[1. Model Structure](#i-Model-Structure)
+	[2. Model Distribution](#ii-Model-Distribution)
+	  	- [Profiling the Data](#Profiling-the-Data)
+	  	- [Selecting a Distribution](#Selecting-a-Distribution)
 3.	Stage 1 GAM
 	1. Data Requirements
   	2. Model Optimisation 	
@@ -32,7 +32,7 @@ Relative Abundance (RA) and index ratio have the same meaning and are used inter
 
 For small sample sizes RA is not very useful for summarising national trends. Natural stochasticity makes it difficult to identify the true signal, and location can also have a significant effect. However, when RA is combined over many different sites, it is possible to detect trends in some species. 
 
-### iii. Site/species combination
+### iii. Site/species Combination
 Refers to a specific ‘survey grouping’ (a single species from a single site). For example, if 20 species are observed at site A, then 20 site/species combinations exist at this site. Similarly, if 20 of the same species are observed at sites A and B, then 40 site/species combinations exist across these two sites.
 
 ## 2. Model Selection
@@ -56,7 +56,7 @@ It was decided that two single-term-GAMs would be implemented. A ‘stage 1 GAM�
 ### ii. Model Distribution
 #### Profiling the Data
 Profiling UKBMS count data for all site/species combinations was not possible because absolute index scores from different groups were incomparable. Relative abundance profiling was possible, but baseline records were not always present, and this method ignored count-level distribution. From other ecological abundance studies, it was noted that zero inflation, right skew, over-dispersion (a term used when variance exceeds the mean) and heteroskedasticity (variance increases with the mean) were characteristics typical of this data type [6], [7]. Another important, yet obvious observation was that count data cannot be negative. 
-#### Selecting a Model
+#### Selecting a Distribution
 The negative binomial model appeared the most compatible. This model type is preferred in ecological count studies for its ability to fit datasets characterised by overdispersion and zero inflation [8], [9]. Unfortunately, this distribution was not available in Pygam. 
 
 The Poisson model was available and stood out for its ability to predict integers that were non-negative [10]. However, Campbell et al. noted the potential for ‘serious errors’ in over-dispersed, zero-inflated datasets [11]. 
