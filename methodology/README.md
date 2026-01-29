@@ -17,6 +17,7 @@
 4.	[Stage 2 GAM](#4-Stage-2-GAM) <br>
 	1. [Data Requirements](#i-Data-Requirements) <br>
   	2. [Model Optimisation](#ii-Model-Optimisation) <br>
+	3. [Code Links](#iii-Code-Links) <br>
 5.	[Bootstrapping](#5-Bootstrapping) <br>
 6.	[Statistical Significance](#6-Statistical-Significance) <br>
 7.	[License and Attribution Statement](#7-License-and-Attribution-Statement) <br>
