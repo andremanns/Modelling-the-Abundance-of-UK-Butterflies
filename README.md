@@ -61,7 +61,7 @@ Figure 4a shows the percentage change in species relative abundance since 1993. 
 <h3 align='left'>Figure 4b: Short Term Changes</h3>
 <p align='left'><image src='images/general_insights/short_term.png' width=1200></p>
 
-###### *Figure 4b: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat [4],[5],[6]. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. To see why some short term RA changes are not significant, click [here](code/analysis/visualisations/bar_relative_abundance_short.ipynb).*
+###### *Figure 4b: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat [4],[5],[6]. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. For details on Statistical Significance see section 6 in the [methodology](methodology/README.md) or the corresponding [code](code/analysis/statistically_significant.ipynb). The code relating to figure 4b is avialble [here](code/analysis/visualisations/bar_relative_abundance_short.ipynb).*
 <br>
 
 Figure 4b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains (see figure 4a), declined by 43% and 25% respectively. When grouped by habitat, the proportion of species with increasing or decreasing RA was mixed:
@@ -114,7 +114,7 @@ All three Skippers share common food sources, but unlike its relatives, Large Sk
 
 <p align='left'><image src='images/species_insights/species_timeline.png' width=800></p>
 
-###### *Figure 6a: A species is 'high risk' when the 'smoothed trend' for RA falls below 10% of its baseline (1993) level. Similarly, a species becomes 'moderate risk' when RA drops below 25% of its baseline. Here, the average rate of decline since 1993 is used to estimate when a species will meet these thresholds. Thresholds are indicated by a colour coded 'X'. Code for the figure is available [here](code/analysis/visualisations/species_timeline.ipynb).*
+###### *Figure 6a: A species is 'high risk' when the 'smoothed trend' for RA falls below 10% of its baseline (1993) level. Similarly, a species becomes 'moderate risk' when RA drops below 25% of its baseline. Here, the average rate of decline since 1993 is used to estimate when a species will meet these thresholds. Thresholds are indicated by a colour coded 'X'. Code used to create this figure is available [here](code/analysis/visualisations/species_timeline.ipynb).*
 <br>
 
 - The Small and Essex Skipper are now classified as 'high risk', meaning population levels have decreased by at least 90% since the 1993 baseline survey.
