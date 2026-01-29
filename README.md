@@ -12,7 +12,7 @@
 [9. References](9-References)
 
 ## Additional Material 
-The project methodology is available [here.](methodology/README.md)
+The project methodology is available [here.](methodology/README.md) <br>
 Project code is available [here.](code/)
 
 For project process flows see the links below:
