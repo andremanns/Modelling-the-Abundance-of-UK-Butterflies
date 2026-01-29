@@ -74,7 +74,7 @@ Figure 4b shows the percentage change in species relative abundance since 2013. 
 ### Figure 5a: Essex & Small Skipper
 <p align='left'><image src='images/species_insights/relative_abundance_es_skipper.png' width=600></p>
 
-###### *Figure 5a: Annual abundance was computed by taking a geometric mean of all RA indices for a species in a particular year. RA was computed by dividing the index from any survey year by the baseline index. The smoothed trend was compiled by extracting median annual predictions from the 'bootstrapped' stage 2 GAM model. For more information about the GAM models used in this report, click [here.](methodology/README.md#2-Model-Selection)*
+###### *Figure 5a: Annual abundance was computed by taking a geometric mean of all RA indices for a species in a particular year. RA was computed by dividing the index from any survey year by the baseline index. The smoothed trend was compiled by extracting median annual predictions from the 'bootstrapped' stage 2 GAM model. For more information about the GAM models used in this report, click [here.]([methodology/README.md#2-Model-Selection](https://github.com/andremanns/Modelling-the-Abundance-of-UK-Butterflies/blob/main/methodology/README.md#2-model-selection)*
 <br>
 Figure 5a shows RA trends for the Essex and Small Skipper since 1993. In 2023, RA reached its highest recorded level since 2016, although long-term trends continued to fall. Two periods of decline were observed: between 1997 and 2004 RA fell by 8%/yr on average. Then from 2015, following a period of stability, RA declined at an average rate of 18%/yr. 
 <br><br>
