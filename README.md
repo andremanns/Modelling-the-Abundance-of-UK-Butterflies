@@ -2,11 +2,11 @@
 
 ## Contents
 [1. Project Background](#1-Project-Background) <br>
-[2. Data Sourcing & Project Data](#2-Data-Sourcing-&-Project-Data) <br>
+[2. Data Sourcing & Project Data](#2-Data-Sourcing--Project-Data) <br>
 [3. Executive Summary](#3-Executive-Summary) <br>
 [4. General Insights](#4-General-Insights) <br>
 [5. Species Specific Insights](#5-Species-Specific-Insights) <br> 
-[6. Looking to the Future](#-6-Looking-to-the-Future) <br>
+[6. Looking to the Future](#6-Looking-to-the-Future) <br>
 [7. Recommendations](#7-Recommendations) <br>
 [8. License and Attribution Statement](#8-License-and-Attribution-Statement) <br>
 [9. References](9-References)
