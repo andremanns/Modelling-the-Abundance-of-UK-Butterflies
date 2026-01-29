@@ -34,7 +34,7 @@ Data for the project was acquired by accessing UKBMS (UK Butterfly Monitoring Sc
 
 <p align='left'><image src='images/project_background/data_structure.png' width=500></p>
 
-###### *Table 2a: Shows the schema from 'site indices 2023' and 'site location data 2023'. Each survey site was identifiable through a unique key ('SITE_CODE' or 'Site_Number') which was used to merge the datasets. Code used to clean the original datasets is available here: ukbms_site_location_cleaning, ukbms_site_indices_cleaning, join_indices_location.*
+###### *Table 2a: Shows the schema from 'site indices 2023' and 'site location data 2023'. Each survey site was identifiable through a unique key ('SITE_CODE' or 'Site_Number') which was used to merge the datasets. Code used to clean the original datasets is available here: [ukbms_site_location_cleaning](code/cleaning/ukbms_site_location_cleaning.ipynb), [ukbms_site_indices_cleaning](code/cleaning/ukbms_site_indices_cleaning.ipynb), [join_indices_location](code/cleaning/join_indices_location.ipynb).*
 
 ## 3. Executive Summary
 In this project, UKBMS survey data is used to model the relative abundance (RA) of UK butterflies over the last 30 years. For an overview of the methodology, click here. 
