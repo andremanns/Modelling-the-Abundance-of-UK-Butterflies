@@ -1,8 +1,8 @@
 # Project Methodology
 ## Contents
 
-[1. Key Terms](#1-Key-Terms)
-	[1. Baseline Index](#i.-Baseline-Index)
+[1. Key Terms](#1-Key-Terms) <br>
+	[1. Baseline Index](#i-Baseline-Index)
 	2. Relative Abundance/Index Ratio
 	3. Site/Species combinations
 2.	Model Selection
