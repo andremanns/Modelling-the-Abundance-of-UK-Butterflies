@@ -37,14 +37,14 @@ Data for the project was acquired by accessing UKBMS (UK Butterfly Monitoring Sc
 ###### *Table 2a: Shows the schema from 'site indices 2023' and 'site location data 2023'. Each survey site was identifiable through a unique key ('SITE_CODE' or 'Site_Number') which was used to merge the datasets. Code used to clean the original datasets is available here: [ukbms_site_location_cleaning](code/cleaning/ukbms_site_location_cleaning.ipynb), [ukbms_site_indices_cleaning](code/cleaning/ukbms_site_indices_cleaning.ipynb), [join_indices_location](code/cleaning/join_indices_location.ipynb).*
 
 ## 3. Executive Summary
-In this project, UKBMS survey data is used to model the relative abundance (RA) of UK butterflies over the last 30 years. For an overview of the methodology, click here. 
+In this project, UKBMS survey data is used to model the Relative Abundance (RA) of UK butterflies over the last 30 years.
 <br><br>
 Of the 17 species analysed, nearly a third are found to be in long term decline, with 24% showing both short- and long-term decline. The Essex Skipper and Small Skipper have been identified as ‘high risk’, with population levels falling by 90% since 1993. Another struggler, the Small Tortoiseshell has declined at an average rate of 5%/yr since 1993 and is forecast to become ‘high risk’ in 2037 if long term trends continue. Possible causes are found to be agricultural pollution, climate change and the influence of invasive species [2]. The remainder of this report will highlight key metrics in the worst performing species, the implications and possible solutions. In the following section, an overview of long and short term change in relative abundance (RA) is provided. Species-specific insights are found in section 5. Section 6 suggests likely outcomes if current trends continue. Finally, in section 7, the recommended actions for regional policy makers are detailed. Figure 3a below, summarises the the results of the report, showing both long and short term changes in RA for butterflies that were analysed.
 
 <h3 align='left'>Figure 3a: Relative Abundance of UK Butterflies</h3>
 <p align='left'><img src='images/executive_summary/long_term_vs_short_term.png' width=760></p>
 
-###### *Figure 3a: Species with increasing long term RA are located above the 'Long Term Change = 0' line. Species with increasing short term RA are located to the right of the 'Short Term Change = 0' line. Species with decreasing RA are highlighted below the plot. To see how the plot was produced, click here.*
+###### *Figure 3a: Species with increasing long term RA are located above the 'Long Term Change = 0' line. Species with increasing short term RA are located to the right of the 'Short Term Change = 0' line. Species with decreasing RA are highlighted below the plot. To see how the plot was produced, click [here.](code/analysis/visualisations/results_species_risk.ipynb)*
 
 ## 4. General Insights
 <h3 align='left'>Figure 4a: Long Term Changes</h3>
