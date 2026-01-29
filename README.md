@@ -9,7 +9,7 @@
 [6. Looking to the Future](#6-Looking-to-the-Future) <br>
 [7. Recommendations](#7-Recommendations) <br>
 [8. License and Attribution Statement](#8-License-and-Attribution-Statement) <br>
-[9. References](9-References)
+[9. References](#9-References)
 
 ## Additional Material 
 The project methodology is available [here.](methodology/README.md) <br>
