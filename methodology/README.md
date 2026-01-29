@@ -4,7 +4,7 @@
 1. [Key Terms](#1-Key-Terms) <br>
 	1. [Baseline Index](#i-Baseline-Index) <br>
 	2. [Relative Abundance/Index Ratio](#ii-Relative-Abundance--Index-Ratio) <br>
-	3. [Site/Species Combinations](#iii-Site-species-Combination) <br>
+	3. [Site/Species Combinations](#iii-Site-Species-Combination) <br>
 2.	[Model Selection](#2-Model-Selection) <br>
 	1. [Model Structure](#i-Model-Structure) <br>
 	2. [Model Distribution](#ii-Model-Distribution) <br>
@@ -32,7 +32,7 @@ Relative Abundance (RA) and index ratio have the same meaning and are used inter
 
 For small sample sizes RA is not very useful for summarising national trends. Natural stochasticity makes it difficult to identify the true signal, and location can also have a significant effect. However, when RA is combined over many different sites, it is possible to detect trends in some species. 
 
-### iii. Site/species Combination
+### iii. Site/Species Combination
 Refers to a specific ‘survey grouping’ (a single species from a single site). For example, if 20 species are observed at site A, then 20 site/species combinations exist at this site. Similarly, if 20 of the same species are observed at sites A and B, then 40 site/species combinations exist across these two sites.
 
 ## 2. Model Selection
