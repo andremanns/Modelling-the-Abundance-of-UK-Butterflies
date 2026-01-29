@@ -18,7 +18,7 @@
   	2. [Model Optimisation](#ii-Model-Optimisation) <br>
 5.	[Bootstrapping](#5-Bootstrapping) <br>
 6.	[Statistical Significance](#6-Statistical-Significance) <br>
-7.	[License and Attribution Statement](#7License-and-Attribution-Statement) <br>
+7.	[License and Attribution Statement](#7-License-and-Attribution-Statement) <br>
 8.	[References](#8-References) <br>
 
 ## 1. Key Terms
