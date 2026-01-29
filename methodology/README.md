@@ -10,13 +10,13 @@
 	2. [Model Distribution](#ii-Model-Distribution) <br>
 	  	- [Profiling the Data](#Profiling-the-Data) <br>
 	  	- [Selecting a Distribution](#Selecting-a-Distribution) <br>
-3.	Stage 1 GAM
-	1. Data Requirements
-  	2. Model Optimisation 	
-4.	Stage 2 GAM
-	1. Data Requirements
-  	2. Model Optimisation 	
-5.	Bootstrapping
+3.	[Stage 1 GAM](#3-Stage-1-GAM) <br>
+	1. [Data Requirements](#i-Data-Requirements) <br>
+  	2. [Model Optimisation](#ii-Model-Optimisation) <br>	
+4.	[Stage 2 GAM](#4-Stage-2-GAM) <br>
+	1. [Data Requirements](#i-Data-Requirements) <br>
+  	2. [Model Optimisation](#ii-Model-Optimisation) <br>
+5.	[Bootstrapping]()
 6.	Statistical Significance
 7.	License and Attribution Statement
 8.	References
