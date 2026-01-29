@@ -64,13 +64,15 @@ Figure 4a shows the percentage change in species relative abundance since 1993. 
 ###### *Figure 4b: In the plot titled 'All Habitats', all species are shown. The remaining three plots, only show species native to that habitat [4],[5],[6]. Note that in 'hedgerow and field margin' and 'damp grassland and meadow' habitats, the Essex Skipper is not considered. In the remaining plots, both the Essex and Small Skipper are considered. The code for computing statistical significance is available [here](code/analysis/statistically_significant.ipynb), alternatively an explanation is provided in section 6 of the [methodology](methodology/README.md). The code relating to figure 4b is available [here](code/analysis/visualisations/bar_relative_abundance_short.ipynb).*
 <br>
 
-Figure 4b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term; the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains (see figure 4a), declined by 43% and 25% respectively. When grouped by habitat, the proportion of species with increasing or decreasing RA was mixed:
+Figure 4b shows the percentage change in species relative abundance since 2013. Less than a third of all butterflies increased in the short term while the remainder either declined or showed no significant change. The worst performing butterflies were the Small/Essex Skipper (-81%) and the Small Tortoiseshell (-47%). The Ringlet and Speckled Wood, species that both exhibited long term gains (see figure 4a), declined by 43% and 25% respectively. When grouped by habitat, the proportion of species with increasing or decreasing RA was mixed:
 - For species prevalent in '**hedgerow and field margin habitats**', 42% declined, while 25% increased. 
 - Relative abundance in 44% of butterflies common to '**road verges**' decreased while an increase was observed in a third of these species.  
 - 60% of species associated with '**damp grassland and meadows**' declined, with no increases documented. 
 
 
 ## 5. Species Specific Insights
+In this section, the worst performing species are analysed. Trends for all study species are available from this [portal](/images/species_insights).
+
 ### Figure 5a: Essex & Small Skipper
 <p align='left'><image src='images/species_insights/relative_abundance_es_skipper.png' width=600></p>
 
