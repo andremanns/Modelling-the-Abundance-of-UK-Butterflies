@@ -1,13 +1,13 @@
 # Project Methodology
 ## Contents
 
-[1. Key Terms](#1-Key-Terms) <br>
-	[1. Baseline Index](#i-Baseline-Index) <br>
-	[2. Relative Abundance/Index Ratio](#ii-Relative-Abundance--Index-Ratio) <br>
-	[3. Site/Species Combinations](#iii-Site-species-Combination) <br>
-[2.	Model Selection](#2-Model-Selection) <br>
-	[1. Model Structure](#i-Model-Structure) <br>
-	[2. Model Distribution](#ii-Model-Distribution) <br>
+1. [Key Terms](#1-Key-Terms) <br>
+	1. [Baseline Index](#i-Baseline-Index) <br>
+	2. [Relative Abundance/Index Ratio](#ii-Relative-Abundance--Index-Ratio) <br>
+	3. [Site/Species Combinations](#iii-Site-species-Combination) <br>
+2.	[Model Selection](#2-Model-Selection) <br>
+	1. [Model Structure](#i-Model-Structure) <br>
+	2. [Model Distribution](#ii-Model-Distribution) <br>
 	  	- [Profiling the Data](#Profiling-the-Data) <br>
 	  	- [Selecting a Distribution](#Selecting-a-Distribution) <br>
 3.	Stage 1 GAM
