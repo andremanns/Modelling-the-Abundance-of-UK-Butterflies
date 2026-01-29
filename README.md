@@ -114,7 +114,7 @@ All three Skippers share common food sources, but unlike its relatives, Large Sk
 
 <p align='left'><image src='images/species_insights/species_timeline.png' width=800></p>
 
-###### *Figure 6a: A species is 'high risk' when the 'smoothed trend' for RA falls below 10% of its baseline (1993) level. Similarly, a species becomes 'moderate risk' when RA drops below 25% of its baseline. Here, the average rate of decline since 1993 is used to estimate when a species will meet these thresholds. Thresholds are indicated by a colour coded 'X'.* Code for the figure is available [here](code/visualisations/species_timeline.ipynb)
+###### *Figure 6a: A species is 'high risk' when the 'smoothed trend' for RA falls below 10% of its baseline (1993) level. Similarly, a species becomes 'moderate risk' when RA drops below 25% of its baseline. Here, the average rate of decline since 1993 is used to estimate when a species will meet these thresholds. Thresholds are indicated by a colour coded 'X'. Code for the figure is available [here](code/analysis/visualisations/species_timeline.ipynb).*
 <br>
 
 - The Small and Essex Skipper are now classified as 'high risk', meaning population levels have decreased by at least 90% since the 1993 baseline survey.
