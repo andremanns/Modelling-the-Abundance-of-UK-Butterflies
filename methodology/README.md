@@ -113,7 +113,7 @@ The aim was to predict RA (the response variable) as a function of time (the exp
 The dataset was divided by species with the minimum sample size set to 500. Species subsets exhibiting more than 15% zero counts, were removed (see model distribution, selecting a model for details). 
 
 ### ii. Model Optimisation
-Models were run with different combinations of hyperparameters. Optimisation of the hyperparameters was achieved using three selection criteria: GCV (General Cross Validation), AIC (Akaike Information Criterion) and BIC (Bayesian Information Criterion). All three criteria were considered advantageous based on their ability to reward goodness of fit (sum of the squares for GCV, log likelihood for AIC and BIC) and penalise complexity (a function of the effective degrees of freedom). The method is outlined below. Additionally, a detailed script is available here. 
+Models were run with different combinations of hyperparameters. Optimisation of the hyperparameters was achieved using three selection criteria: GCV (General Cross Validation), AIC (Akaike Information Criterion) and BIC (Bayesian Information Criterion). All three criteria were considered advantageous based on their ability to reward goodness of fit (sum of the squares for GCV, log likelihood for AIC and BIC) and penalise complexity (a function of the effective degrees of freedom). The method is outlined below:
 
 1.	The data was partitioned into species subsets. 
 2.	Relative abundance values were log transformed (for details see section titled ‘model distribution’).
@@ -128,7 +128,10 @@ Models were run with different combinations of hyperparameters. Optimisation of 
 	- Fitted values vs Residuals: residuals from the two preferred models were plotted on the same graph to compare magnitude of error and bias. 
 	- Q-Q plots of the residuals. 
 8.	Numerical assessment involved comparison of complexity (effective degrees of freedom), MAE (Mean Absolute Error) and RMSE. 
-9.	Following evaluation, the optimal model selection criterion was determined and approved for use in the final analysis. 
+9.	Following evaluation, the optimal model selection criterion was determined and approved for use in the final analysis.
+
+### Code Links
+- [GAM stage 2 optimisation](/code/validation/valid_s2_gam/valid_s2_gam.ipynb)
 
 ## 5. Bootstrapping
 Bootstrapping was used to estimate population central tendency (median RA) and variability (confidence intervals) for species abundance trends. Species subsets were resampled with replacement before running the stage 2 GAM. The process of resampling and modelling was integrated into a ‘for loop’ which repeated 500 times, meaning 500 RA predictions were made for each study year. 
@@ -143,6 +146,8 @@ The aim was to determine if increases or decreases in RA had occurred by chance.
 
 The method involved analysing bootstrapped RA data from the stage 2 GAM. To evaluate long term changes, 2023 median RA was subtracted from baseline median RA for each resample. Hence, a negative value indicated a long-term increase in RA, while a positive value indicated a long-term decline. To test for a significant increase, negative values were assigned to ‘True’ and summed. The total was then divided by 500 (the number of resamples). A result ≥0.95 was required to achieve significance. In the reverse test (decrease), a true value was assigned to positive values. 
 For short term changes the same approach was used, only RA changes were evaluated by subtracting 2013 median RA from 2023 median RA. 
+
+Code for determining statistical significance is available [here](/code/analysis/statistically_significant.ipynb).
 
 ## 7. License and Attribution Statement
 Contains UK Butterfly Monitoring Scheme (UKBMS) data © copyright and database right Butterfly Conservation, the Centre for Ecology & Hydrology, British Trust for Ornithology, and the Joint Nature Conservation Committee.
