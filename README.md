@@ -12,13 +12,12 @@
 [9. References](9-References)
 
 ## Additional Material 
-The project methofology is available [here.](methodology/README.md)
+The project methodology is available [here.](methodology/README.md)
+Project code is available [here.](code/)
 
 For project process flows see the links below:
 - [project flow 1: baseline predictions](methodology/project_process_flow/project_process_flow_1_baseline_predictions.pdf)
 - [project flow 2: RA predictions](methodology/project_process_flow/project_process_flow_2_RA_prediction.pdf)
-
-Project code is available [here.](code/)
 
 ## 1. Project Background
 ### Context
