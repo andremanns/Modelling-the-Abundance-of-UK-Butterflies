@@ -16,10 +16,10 @@
 4.	[Stage 2 GAM](#4-Stage-2-GAM) <br>
 	1. [Data Requirements](#i-Data-Requirements) <br>
   	2. [Model Optimisation](#ii-Model-Optimisation) <br>
-5.	[Bootstrapping]()
-6.	Statistical Significance
-7.	License and Attribution Statement
-8.	References
+5.	[Bootstrapping](#5-Bootstrapping) <br>
+6.	[Statistical Significance](#6-Statistical-Significance) <br>
+7.	[License and Attribution Statement](#7License-and-Attribution-Statement) <br>
+8.	[References](#8-References) <br>
 
 ## 1. Key Terms
 ### i. Baseline Index
