@@ -11,6 +11,14 @@
 [8. License and Attribution Statement](#8-License-and-Attribution-Statement) <br>
 [9. References](9-References)
 
+The project methofology is available [here.](methodology/README.md)
+
+For project process flows see the links below:
+- [project flow 1: baseline predictions](methodology/project_process_flow/project_process_flow_1_baseline_predictions.pdf)
+- [project flow 2: RA predictions](methodology/project_process_flow/project_process_flow_2_RA_prediction.pdf)
+
+Project code is available [here.](code/)
+
 ## 1. Project Background
 ### Context
 As part of a new government-led green initiative to prevent biodiversity loss, regional councils are to receive a ‘nature grant’ that will be allocated for habitat restoration and species protection. This comes after a report in the State of Nature revealed the number of endangered species in Great Britain had risen to 16% [1]. Many experts believe this is the result of environmental pressures such as, climate change, air pollution, agricultural pollution and invasive species [2].
