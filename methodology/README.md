@@ -55,7 +55,7 @@ It was decided that two single-term-GAMs would be implemented. A â€˜stage 1 GAMâ
 
 ### ii. Model Distribution
 #### Profiling the Data
-Profiling UKBMS count data for all site/species combinations was not possible because absolute index scores from different groups were incomparable. Relative abundance profiling was possible, but baseline records were not always present, and this method ignored count-level distribution. From other ecological abundance studies, it was noted that zero inflation, right skew, over-dispersion (a term used when variance exceeds the mean) and heteroskedasticity (variance increases with the mean) were characteristics typical of this data type [6], [7]. Another important, yet obvious observation was that count data cannot be negative. 
+Profiling UKBMS count data for all site/species combinations was not possible because absolute index scores from different groups were incomparable. Relative abundance profiling was possible, but baseline records were missing in some cases, and this method ignored count-level distribution. From other ecological abundance studies, it was noted that zero inflation, right skew, over-dispersion (a term used when variance exceeds the mean) and heteroskedasticity (variance increases with the mean) were characteristics typical of this data type [6], [7]. Another important, yet obvious observation was that count data cannot be negative. 
 #### Selecting a Distribution
 The negative binomial model appeared the most compatible. This model type is preferred in ecological count studies for its ability to fit datasets characterised by overdispersion and zero inflation [8], [9]. Unfortunately, this distribution was not available in Pygam. 
 
