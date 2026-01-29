@@ -12,7 +12,8 @@
 	  	- [Selecting a Distribution](#Selecting-a-Distribution) <br>
 3.	[Stage 1 GAM](#3-Stage-1-GAM) <br>
 	1. [Data Requirements](#i-Data-Requirements) <br>
-  	2. [Model Optimisation](#ii-Model-Optimisation) <br>	
+  	2. [Model Optimisation](#ii-Model-Optimisation) <br>
+	3. [Code Links](#iii-Code-Links) <br>
 4.	[Stage 2 GAM](#4-Stage-2-GAM) <br>
 	1. [Data Requirements](#i-Data-Requirements) <br>
   	2. [Model Optimisation](#ii-Model-Optimisation) <br>
@@ -99,6 +100,11 @@ Optimisation was achieved by running models with different combinations of hyper
 	- Fitted baseline count vs Residuals
 	- Q-Q plot of residuals. 
 11.	Following evaluation in step 10, the optimal hyperparameters were selected and implemented into the final stage 1 GAM.
+
+### iii. Code Links
+- [Running the model](code/validation/valid_s1_gam/valid_s1_gam.ipynb) (relates to method steps 4-7).
+- [Visualisation of hyperparameters](code/validation/valid_s1_gam/12_13_14_obs/valid_s1_gam_12_13_14_obs.ipynb) (relates to method steps 8-9).
+- [Evaluation of top performing models](code/validation/valid_s1_gam/12_13_14_obs/valid_s1_gam_resid_12_13_14_obs.ipynb) (relates to method step 10).
 
 ## 4. Stage 2 GAM
 The aim was to predict RA (the response variable) as a function of time (the explanatory variable in years) across all species subsets. Unlike the stage 1 GAM (which predicted counts for a single year) models were evaluated based on their ability to capture long term trends.
