@@ -1,0 +1,22 @@
+#automated folders
+**/.ipynb_checkpoints/
+
+# all folders
+**/obsolete/
+
+# validation folder
+code/validation/averaging_validation/
+code/validation/geo_spatial_validation/
+code/validation/valid_s1_gam/6_7_8_obs/
+code/validation/valid_s1_gam/9_10_11_obs/
+code/validation/valid_s1_gam/10_obs/
+code/validation/valid_s1_gam/15_16_17_obs/
+code/validation/valid_s1_gam/18_19_20_obs/
+code/validation/valid_s1_gam/sensitivity_check/
+
+# preparation folder
+code/preparation/ewm/
+code/preparation/geo_spatial_code_prep/
+
+# analysis folder
+code/analysis/visualisations/results_8.ipynb
