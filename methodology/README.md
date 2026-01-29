@@ -73,7 +73,7 @@ Better compliance with the Gaussian assumptions meant the data could be modelled
 To minimise bias and error associated with log transformation, species subsets and site/species combination groups were omitted if zero counts exceeded 15%.  This is approximately the threshold observed by B. O’Hara et al, below which the log(x+1) transformation exhibited the least error and bias when compared with other transformations in generalised linear models [14]. 
 
 ## 3. Stage 1 GAM
-The aim was to predict abundance (the response variable) as a function of time (the explanatory variable in years) for site/species combinations without a baseline survey. 
+The aim was to predict abundance (the response variable) as a function of time (the explanatory variable in years) for site/species combinations without a baseline survey.
 
 ### i. Data Requirements
 The data was first partitioned by site/species combination. Each grouping was required to meet the conditions outlined below:
@@ -88,7 +88,7 @@ Optimisation was achieved by running models with different combinations of hyper
 1.	Site counts were grouped by species code and site code into ‘survey groups’. 
 2.	A filter was applied to remove survey groups without a baseline record.
 3.	Baseline indices were hidden from the remaining survey groups for later comparison.
-4.	Counts were log-transformed (for details see section titled ‘model distribution’).
+4.	Counts were log-transformed (for details see section titled ‘[selecting a distribution](#Selecting-a-Distribution)’).
 5.	A range of values were defined for each of the hyperparameters: lambda (eleven values log spaced between 10¯³ and 10³) and spline count (8 values between 4 and 11). This generated 88 hyperparameter combinations.
 6.	A model was generated for each survey group using one of the hyperparameter combinations. The output of each model (a single baseline prediction per survey group) was stored in a DataFrame, containing all predictions for that set of hyperparameters.
 7.	Step 5 was repeated for each combination of hyperparameters. 
@@ -98,7 +98,7 @@ Optimisation was achieved by running models with different combinations of hyper
 	- Predicted vs actual baseline count
 	- Fitted baseline count vs Residuals
 	- Q-Q plot of residuals. 
-11.	Following evaluation in step 10, the optimal hyperparameters were selected and implemented into the final stage 1 GAM. Full code for this is available here: GAM model.
+11.	Following evaluation in step 10, the optimal hyperparameters were selected and implemented into the final stage 1 GAM.
 
 ## 4. Stage 2 GAM
 The aim was to predict RA (the response variable) as a function of time (the explanatory variable in years) across all species subsets. Unlike the stage 1 GAM (which predicted counts for a single year) models were evaluated based on their ability to capture long term trends.
