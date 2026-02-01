@@ -1,6 +1,6 @@
 <h1 align='center'>Modelling the Abundance of UK Butterflies</h1>
 
-## Contents
+## Contents.
 [1. Project Background](#1-Project-Background) <br>
 [2. Data Sourcing & Project Data](#2-Data-Sourcing--Project-Data) <br>
 [3. Executive Summary](#3-Executive-Summary) <br>
